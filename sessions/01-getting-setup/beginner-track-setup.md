@@ -69,8 +69,7 @@ Launch MAMP. The following screen shots are from my MacBook installation. The ne
 splash screen.
 
 ![MAMP splash page](figures/Screenshot%202020-04-01%2013.21.53.png)
-
-**MAMP splash page**
+<br/>**MAMP splash page**
 
 Click "Start Servers". After a few moments, a webpage should appear in your default browser.
 In my case the url is <http://localhost:8888/MAMP/?language=English> (next screen shot).
