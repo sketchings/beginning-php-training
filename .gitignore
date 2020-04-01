@@ -1,6 +1,9 @@
 composer.phar
 /vendor/
 
+.DS_Store
+.idea
+
 .env
 Homestead.yaml
 Homestead.json
