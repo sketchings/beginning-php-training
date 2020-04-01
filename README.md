@@ -5,12 +5,12 @@ Use that tutorial for setting up your local development environment.
 
 ## What is Here?
 
-Each session folder contains a copy of that session's slide deck (as PDF), sample code, and/or
+Each session folder (linked below) contains a copy of that session's slide deck (as PDF), sample code, and/or
 tutorials. You are welcome to clone or download this repository for offline viewing.
 
-Since we are live-streaming Midwest PHP this year, it might be wise to use an offline
-copy of the slide deck in case there are bandwidth/transmission problems during the session.
-We'll do our best, but sometimes stuff happens!
+Since we are live-streaming [Midwest PHP this year](https://midwestphp.org/schedule), 
+it might be wise to use an offline copy of the slide deck in case there are bandwidth/transmission 
+problems during the session. We'll do our best, but sometimes stuff happens!
 
 **Slack Channel**: We have a slack channel dedicated to the Beginner Track during the live-streamed
 sessions. Midwest PHP will provide you access information. One speaker will be monitoring the channel

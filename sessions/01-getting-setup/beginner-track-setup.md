@@ -109,4 +109,4 @@ Click on hello-world.php. Success! Your page should look like the next screen sh
 database, look in the center column of the MAMP splash page for the "MySQL" section.
 Explore the administration tool phpMyAdmin. Create a new empty database named
 `inventory`. You should then be able to connect to it using the PHP sample code in
-that section. We'll use database connections in session 7, Database, on Saturday.
+that section. We'll use database connections in session 7, Database Basics, on Saturday.
