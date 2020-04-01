@@ -90,32 +90,23 @@ contain your new `hello-world.php` file. Click ok. MAMP should automatically sto
 restart the webserver.
 
 Reload your localhost home page. You should now see the directory listing including
-`hello-world.php` as shown in the next screen shot. The 
+`hello-world.php` as shown in the next screen shot. The `.idea` folder is part of my
+PhpStorm project installation.
 
 ![Refreshed localhost home page](figures/Screenshot%202020-04-01%2016.22.05.png)
+<br/>**Refreshed localhost home page**
 
-Go back to the [documentation for
-either Mac or Windows](https://documentation.mamp.info/) and click either
-[Mac](https://documentation.mamp.info/en/MAMP-Mac/) or
-[Windows](https://documentation.mamp.info/en/MAMP-Windows/). You were probably already there
-for the "Installation" and "First Steps" instructions. From the left-hand navigation column
-click on **Preferences > Web Server**.
+## Hello World
 
-Note the document root. That's where you'll be putting your PHP files. For example, on my
-mac in a command-line shell, I navigated to the document root and created a file
-"hello.txt":
+Click on hello-world.php. Success! Your page should look like the next screen shot.
 
-~~~shell script
-cd /Applications/MAMP/htdocs
-echo Hello World > hello.txt
-~~~
+![Hello World](figures/Screenshot%202020-04-01%2016.47.29.png)
+<br/>**Hello world**
 
-Now, on your local website (Figure 2), click on MY WEBSITE at the top. You'll see an empty
-directory listing or, in my case, hello.txt.
+## Database
 
-![My website](figures/Screenshot%202020-04-01%2013.44.55.png)
-<br/>**My website**
-
-If I click on "hello.txt" the page will in fact display the plain-text content of that file.
-
-
+"Hello World" is all you need for now. However, if you'd like to try connecting to your
+database, look in the center column of the MAMP splash page for the "MySQL" section.
+Explore the administration tool phpMyAdmin. Create a new empty database named
+`inventory`. You should then be able to connect to it using the PHP sample code in
+that section. We'll use database connections in session 7, Database, on Saturday.
