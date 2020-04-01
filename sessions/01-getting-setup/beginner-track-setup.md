@@ -66,9 +66,10 @@ Note that you'll be downloading MAMP PRO even though you're only using the free 
 ## Document Root
 
 Launch MAMP. The following screen shots are from my MacBook installation. The next screen shot shows the
-splash screen (with my editing this document in PhpStorm in the background).
+splash screen.
 
 ![MAMP splash page](figures/Screenshot%202020-04-01%2013.21.53.png)
+
 **MAMP splash page**
 
 Click "Start Servers". After a few moments, a webpage should appear in your default browser.
