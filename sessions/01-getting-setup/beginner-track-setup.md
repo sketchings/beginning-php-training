@@ -42,7 +42,7 @@ That file doesn't do anything yet, but you'll be using this file after the next 
 My PhpStorm installation looks like the following screen shot.
 
 ![Hello World](figures/Screenshot%202020-04-01%2015.51.50.png)
-**Hello World**
+<br/>**Hello World**
 
 ## Install MAMP
 
@@ -75,7 +75,7 @@ Click "Start Servers". After a few moments, a webpage should appear in your defa
 In my case the url is <http://localhost:8888/MAMP/?language=English> (next screen shot).
 
 ![Localhost home page](figures/Screenshot%202020-04-01%2013.27.49.png)
-**Localhost home page**
+<br/>**Localhost home page**
 
 At this point you have your local website up and running! The next step is to tell the
 webserver where to find your project with your `hello-world.php`.
@@ -83,7 +83,7 @@ webserver where to find your project with your `hello-world.php`.
 Open the MAMP preferences. Choose the "Web Server" tab as shown in the next screen shot.
 
 ![Web server preferences](figures/Screenshot%202020-04-01%2016.14.52.png)
-Web server preferences
+<br/>**Web server preferences**
 
 Click select and choose the folder (directory) containing your PHP project. It should
 contain your new `hello-world.php` file. Click ok. MAMP should automatically stop and
@@ -114,7 +114,7 @@ Now, on your local website (Figure 2), click on MY WEBSITE at the top. You'll se
 directory listing or, in my case, hello.txt.
 
 ![My website](figures/Screenshot%202020-04-01%2013.44.55.png)
-**My website**
+<br/>**My website**
 
 If I click on "hello.txt" the page will in fact display the plain-text content of that file.
 
