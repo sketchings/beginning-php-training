@@ -3,6 +3,14 @@
 We recommend taking the easiest route available for getting a usable development environment
 prior to the start of Midwest PHP's beginner track.
 
+## Install Editor
+
+[Visual Studio](https://visualstudio.microsoft.com/) is free and available for both Windows and
+Mac. Follow the link for download and installation instructions.
+
+I personally use [PhpStorm](https://www.jetbrains.com/phpstorm/). It has a 30-day free trial after
+which you'll need to purchase a license to continue use.
+
 ## Install MAMP
 
 Your work environment, probably either a Windows or MacBook laptop, requires:
@@ -21,14 +29,6 @@ Click here for the [installation instructions](https://documentation.mamp.info/)
 (Choose the windows or mac version of the documentation as appropriate.)
 Note that you'll be downloading MAMP PRO even though you're only using the free version
 (MAMP rather than MAMP PRO). You'll be installing both but only using the non-PRO version.
-
-## Install Editor
-
-[Visual Studio](https://visualstudio.microsoft.com/) is free and available for both Windows and
-Mac. Follow the link for download and installation instructions.
-
-I personally use [PhpStorm](https://www.jetbrains.com/phpstorm/). It has a 30-day free trial after
-which you'll need to purchase a license to continue use.
 
 ## Hello World
 
