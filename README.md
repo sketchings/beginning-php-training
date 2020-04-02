@@ -29,9 +29,9 @@ The links below take you to the slide deck and additional materials within this 
  
 ## Saturday April 4
 
- - 10:15-11:00 [Database Basics](sessions/07-database)
+ - 10:15-11:00 [Data, Files, and Forms](sessions/07-data-files-sessions-forms)
  - 11:15-12:00 [Errors, Exceptions, and Logging](sessions/08-errors-exceptions-logging)
- - 1:00-1:40 [Data, Files, and Forms](sessions/09-data-files-sessions-forms)
+ - 1:00-1:40 [Database Basics](sessions/09-database)
  - 1:50-2:30 [PHP Frameworks](sessions/10-frameworks)
  - 3:00-3:45 [PHP Resources](sessions/11-resources)
 
