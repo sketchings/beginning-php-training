@@ -3,7 +3,11 @@ class User {
     public $name;
     public $title = "Mx.";
     public $acceptedTitles = ["Mr.", "Ms.", "Mrs.", "Mx."];
-    public static $encouragements = [ "You are beautiful!",  "You have this!"];
+    public static $encouragements = [
+        "You are beautiful!",  
+        "You have this!", 
+        "Stop touching your face!"
+    ];
 
     public static function encourage() {
         $int = array_rand(self::$encouragements, 1);
