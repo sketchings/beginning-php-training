@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Free the Geek.fm - The podcast about building a rewarding career as a professional software developer.</title>
+    <link>http://www.freethegeek.fm</link>
+    <description>A fortnightly, fireside chat, on the ins and outs of building a rewarding career as a professional software developer. Looking at what it's like to do it, warts and all, as well as how to get started, what to expect, the good, the bad, and the ugly.</description>
+    <managingEditor>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</managingEditor>
+    <pubDate>Tue, 17 Jan 2017 17:42:31 +0000</pubDate>
+    <generator>eZ Components Feed dev (http://ezcomponents.org/docs/tutorials/Feed)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://traffic.libsyn.com/thegeekyfreelancer/itunes.png"/>
+    <itunes:keywords>Freelancing</itunes:keywords>
+    <itunes:subtitle>The podcast about building a rewarding career as a professional software developer.</itunes:subtitle>
+    <item>
+      <title>Episode 21 - Talking With Dan Allen Asciidoc Project Lead</title>
+      <link>http://freethegeek.fm/episode/episode-0021</link>
+      <description>In this episode I sit down with Asciidoc project Lead, and all round good fella - Dan Allen. If you love technical writing, technical documentation, and documenting your code, then this is an episode you&apos;re not going to want to miss.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0021.mp3" length="77471162" type="audio/x-mp3"/>
+      <pubDate>Tue, 03 Jan 2017 15:00:00 +0100</pubDate>
+      <itunes:duration>01:20:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode I sit down with Asciidoc project Lead, and all round good fella - Dan Allen. If you love technical writing, technical documentation, and documenting your code, then this is an episode you’re not going to want to miss.</itunes:subtitle>
+      <itunes:summary>In this episode I sit down with Asciidoc project Lead, and all round good fella - Dan Allen. If you love technical writing, technical documentation, and documenting your code, then this is an episode you’re not going to want to miss.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 20 - Talking About Finding Balance As A Freelancer</title>
+      <link>http://freethegeek.fm/episode/episode-0020</link>
+      <description>In this episode we pick up where we left off in [episode 19](/episode/episode-0019), with a slight segway. But, instead of starting to look at how to use Twitter, and other social media tools, let&apos;s talk about something more important.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0020.mp3" length="18218340" type="audio/x-mp3"/>
+      <pubDate>Thu, 08 Dec 2016 15:00:00 +0100</pubDate>
+      <itunes:duration>00:18:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode we pick up where we left off in [episode 19](/episode/episode-0019), with a slight segway. But, instead of starting to look at how to use Twitter, and other social media tools, let’s talk about something more important.</itunes:subtitle>
+      <itunes:summary>In this episode we pick up where we left off in [episode 19](/episode/episode-0019), with a slight segway. But, instead of starting to look at how to use Twitter, and other social media tools, let’s talk about something more important.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 19 - Talking Trump, Brexit, and Getting Started as a Freelancer</title>
+      <link>http://freethegeek.fm/episode/episode-0019</link>
+      <description>In this episode I decided to go a little off track and have a bit of a rant, a bit of an &quot;letting go&quot; session in light of the recent US election and Brexit. I&apos;m no fan of either, and I share why in the first half of the episode.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0019.mp3" length="47355030" type="audio/x-mp3"/>
+      <pubDate>Thu, 17 Nov 2016 17:00:00 +0100</pubDate>
+      <itunes:duration>00:32:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode I decided to go a little off track and have a bit of a rant, a bit of an “letting go” session in light of the recent US election and Brexit. I’m no fan of either, and I share why in the first half of the episode.</itunes:subtitle>
+      <itunes:summary>In this episode I decided to go a little off track and have a bit of a rant, a bit of an “letting go” session in light of the recent US election and Brexit. I’m no fan of either, and I share why in the first half of the episode.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 18 - Talking Conferences and Mental Health with Matthew Turland</title>
+      <link>http://freethegeek.fm/episode/episode-0018</link>
+      <description>In this episode I wonderful chat with Matthew Turland about what it&apos;s like speaking at conferences and mental health - especially within the IT community.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0018.mp3" length="89669508" type="audio/x-mp3"/>
+      <pubDate>Mon, 23 May 2016 15:00:00 +0200</pubDate>
+      <itunes:duration>01:02:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode I wonderful chat with Matthew Turland about what it’s like speaking at conferences and mental health - especially within the IT community.</itunes:subtitle>
+      <itunes:summary>In this episode I wonderful chat with Matthew Turland about what it’s like speaking at conferences and mental health - especially within the IT community.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 17 - Talking Conferences and Security with Chris Cornutt</title>
+      <link>http://freethegeek.fm/episode/episode-0017</link>
+      <description>In this episode I chat with Chris Cornutt, founder of PHPDeveloper.org, websec.io, and Lone Star PHP about conferences and all things security.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0017.mp3" length="89669508" type="audio/x-mp3"/>
+      <pubDate>Mon, 02 May 2016 16:00:00 +0200</pubDate>
+      <itunes:duration>01:02:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode I chat with Chris Cornutt, founder of PHPDeveloper.org, websec.io, and Lone Star PHP about conferences and all things security.</itunes:subtitle>
+      <itunes:summary>In this episode I chat with Chris Cornutt, founder of PHPDeveloper.org, websec.io, and Lone Star PHP about conferences and all things security.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 16 - Talking Testing and Building YOUR Dream with Chris Hartjes</title>
+      <link>http://freethegeek.fm/episode/episode-0016</link>
+      <description>In this episode I chat with Chris Hartjes, the Grumpy Programmer himself, about the ins and outs of testing and what it&apos;s like to spend part of your working week building your dreams, instead of someone else&apos;s.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0016.mp3" length="54357905" type="audio/x-mp3"/>
+      <pubDate>Mon, 18 Apr 2016 16:00:00 +0200</pubDate>
+      <itunes:duration>01:04:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode I chat with Chris Hartjes, the Grumpy Programmer himself, about the ins and outs of testing and what it’s like to spend part of your working week building your dreams, instead of someone else’s.</itunes:subtitle>
+      <itunes:summary>In this episode I chat with Chris Hartjes, the Grumpy Programmer himself, about the ins and outs of testing and what it’s like to spend part of your working week building your dreams, instead of someone else’s.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 15 - Talking Sunshine PHP, Project Estimates, and Conferences with Adam Culp</title>
+      <link>http://freethegeek.fm/episode/episode-0015</link>
+      <description>In this episode I chat with Adam Culp, founder of the Sunshine PHP, in sunny south Florida, about starting and running conferences, project estimates, and being professional developers.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0015.mp3" length="46726768" type="audio/x-mp3"/>
+      <pubDate>Mon, 04 Apr 2016 15:00:00 +0200</pubDate>
+      <itunes:duration>43:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode I chat with Adam Culp, founder of the Sunshine PHP, in sunny south Florida, about starting and running conferences, project estimates, and being professional developers.</itunes:subtitle>
+      <itunes:summary>In this episode I chat with Adam Culp, founder of the Sunshine PHP, in sunny south Florida, about starting and running conferences, project estimates, and being professional developers.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 14 - Talking Slim 3, PSR-7, Constraints &amp; Decisions with Rob Allen</title>
+      <link>http://freethegeek.fm/episode/episode-0014</link>
+      <description>In this episode I have a fireside chat with sagely Rob Allen, about being one of the leads on the Slim 3 project, and about the constraints and decisions developers need to make.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0014.mp3" length="76972744" type="audio/x-mp3"/>
+      <pubDate>Mon, 21 Mar 2016 15:00:00 +0100</pubDate>
+      <itunes:duration>53:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode I have a fireside chat with sagely Rob Allen, about being one of the leads on the Slim 3 project, and about the constraints and decisions developers need to make.</itunes:subtitle>
+      <itunes:summary>In this episode I have a fireside chat with sagely Rob Allen, about being one of the leads on the Slim 3 project, and about the constraints and decisions developers need to make.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 13 - Talking Nomad PHP, Laravel, and Conferences with Joe P. Ferguson</title>
+      <link>http://freethegeek.fm/episode/episode-0013</link>
+      <description>In this episode I have a fireside chat with the voice of Nomad PHP, Joe P. Ferguson. Joe shares how he got started as the voice of Nomad PHP.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0013.mp3" length="62869232" type="audio/x-mp3"/>
+      <pubDate>Mon, 07 Mar 2016 15:00:00 +0100</pubDate>
+      <itunes:duration>58:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode I have a fireside chat with the voice of Nomad PHP, Joe P. Ferguson. Joe shares how he got started as the voice of Nomad PHP.</itunes:subtitle>
+      <itunes:summary>In this episode I have a fireside chat with the voice of Nomad PHP, Joe P. Ferguson. Joe shares how he got started as the voice of Nomad PHP.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 12 - Talking about the Magic of TDD and Testing with Tom Oram</title>
+      <link>http://freethegeek.fm/episode/episode-0012</link>
+      <description>In this episode I have a fireside chat about all things TDD and testing with the sagely Mr Tom Oram, otherwise known as @tomphp.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0012.mp3" length="65824528" type="audio/x-mp3"/>
+      <pubDate>Mon, 22 Feb 2016 15:00:00 +0100</pubDate>
+      <itunes:duration>01:00:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode I have a fireside chat about all things TDD and testing with the sagely Mr Tom Oram, otherwise known as @tomphp.</itunes:subtitle>
+      <itunes:summary>In this episode I have a fireside chat about all things TDD and testing with the sagely Mr Tom Oram, otherwise known as @tomphp.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 11 - The Life of a Developer Evangelist, with Developer Jack</title>
+      <link>http://freethegeek.fm/episode/episode-0011</link>
+      <description>In this episode I have a fireside chat about what it's like to live the life of a developer evangelist with Jack Skinner, otherwise known as @developerjack, whilst he was at the first BuzzConf.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0011.mp3" length="46726768" type="audio/x-mp3"/>
+      <pubDate>Mon, 21 Dec 2015 15:00:00 +0100</pubDate>
+      <itunes:duration>43:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode I have a fireside chat about what it's like to live the life of a developer evangelist with Jack Skinner, otherwise known as @developerjack, whilst he was at the first BuzzConf.</itunes:subtitle>
+      <itunes:summary>In this episode I have a fireside chat about what it's like to live the life of a developer evangelist with Jack Skinner, otherwise known as @developerjack, whilst he was at the first BuzzConf.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 10 - Talking Shop with Stephan Hochdoerfer</title>
+      <link>http://freethegeek.fm/episode/episode-0010</link>
+      <description>In this episode I have a fireside chat about a range of topics with Stephan Hochdoerfer.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0010.mp3" length="77851341" type="audio/x-mp3"/>
+      <pubDate>Mon, 07 Dec 2015 17:00:00 +0100</pubDate>
+      <itunes:duration>54:00</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode I have a fireside chat about a range of topics with Stephan Hochdoerfer.</itunes:subtitle>
+      <itunes:summary>In this episode I have a fireside chat about a range of topics with Stephan Hochdoerfer.</itunes:summary>
+    </item>
+    <item>
+      <title>Episode 9 - Removing False Perceptions About People, The Roland R-05, and Zend Expressive</title>
+      <link>http://freethegeek.fm/episode/episode-0009</link>
+      <description>There's no guests in this episode. Instead I explore a range of topics, including one quite dear to me - how we can build up preconceptions of what other people think of us.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0009.mp3" length="24482360" type="audio/x-mp3"/>
+      <pubDate>Mon, 09 Nov 2015 15:00:00 +0100</pubDate>
+      <itunes:duration>25:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>There's no guests in this episode. Instead I explore a range of topics, including one quite dear to me - how we can build up preconceptions of what other people think of us.</itunes:subtitle>
+      <itunes:summary>There's no guests in this episode. Instead I explore a range of topics, including one quite dear to me - how we can build up preconceptions of what other people think of us.</itunes:summary>
+    </item>
+    <item>
+      <title>Talking Technical Writing and Simplifying Deployment with Erika Heidi</title>
+      <link>http://freethegeek.fm/episode/episode-0008</link>
+      <description>In this episode, I have a fireside chat with the wonderful Erika Heidi, where we talk about technical writing. We also talk about simplifying deployment, naturally, with her preferred tools of Vagrant and Ansible.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0008.mp3" length="40207962" type="audio/x-mp3"/>
+      <pubDate>Mon, 26 Oct 2015 15:00:00 +0100</pubDate>
+      <itunes:duration>47:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode, I have a fireside chat with the wonderful Erika Heidi, where we talk about technical writing. We also talk about simplifying deployment, naturally, with her preferred tools of Vagrant and Ansible.</itunes:subtitle>
+      <itunes:summary>In this episode, I have a fireside chat with the wonderful Erika Heidi, where we talk about technical writing. We also talk about simplifying deployment, naturally, with her preferred tools of Vagrant and Ansible.</itunes:summary>
+    </item>
+    <item>
+      <title>How to be an Exceptional Public Speaker, and Blogging for the Long Term with Troy Hunt</title>
+      <link>http://freethegeek.fm/episode/episode-0007</link>
+      <description>In this episode, I have a fireside chat with Troy Hunt. Troy's a Microsoft MVP for Security, PluralSight author, and public speaker.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0007.mp3" length="47074778" type="audio/x-mp3"/>
+      <pubDate>Mon, 12 Oct 2015 15:00:00 +0200</pubDate>
+      <itunes:duration>55:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode, I have a fireside chat with Troy Hunt. Troy's a Microsoft MVP for Security, PluralSight author, and public speaker.</itunes:subtitle>
+      <itunes:summary>In this episode, I have a fireside chat with Troy Hunt. Troy's a Microsoft MVP for Security, PluralSight author, and public speaker.</itunes:summary>
+    </item>
+    <item>
+      <title>Building Your Brand as a Freelancer - with Gary Hockin (Part Two)</title>
+      <link>http://freethegeek.fm/episode/episode-0006</link>
+      <description>In this episode, I have, part two of, a fireside chat with, Zend Framework aficionado and Roave stalwart, Gary Hockin about the ins and outs of building both a brand and a reputation as a freelancer.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0006.mp3" type="audio/x-mp3"/>
+      <pubDate>Tue, 29 Sep 2015 15:00:00 +0200</pubDate>
+      <itunes:duration>30:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode, I have, part two of, a fireside chat with, Zend Framework aficionado and Roave stalwart, Gary Hockin about the ins and outs of building both a brand and a reputation as a freelancer.</itunes:subtitle>
+      <itunes:summary>In this episode, I have, part two of, a fireside chat with, Zend Framework aficionado and Roave stalwart, Gary Hockin about the ins and outs of building both a brand and a reputation as a freelancer.</itunes:summary>
+    </item>
+    <item>
+      <title>Building Your Brand as a Freelancer - with Gary Hockin (Part One)</title>
+      <link>http://freethegeek.fm/episode/episode-0005</link>
+      <description>In this episode, I have, part one of, a fireside chat with, Zend Framework aficionado and Roave stalwart, Gary Hockin about the ins and outs of building both a brand and a reputation as a freelancer.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0005.mp3" type="audio/x-mp3"/>
+      <pubDate>Mon, 14 Sep 2015 15:00:00 +0200</pubDate>
+      <itunes:duration>01:02:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode, I have, part one of, a fireside chat with, Zend Framework aficionado and Roave stalwart, Gary Hockin about the ins and outs of building both a brand and a reputation as a freelancer.</itunes:subtitle>
+      <itunes:summary>In this episode, I have, part one of, a fireside chat with, Zend Framework aficionado and Roave stalwart, Gary Hockin about the ins and outs of building both a brand and a reputation as a freelancer.</itunes:summary>
+    </item>
+    <item>
+      <title>Wisdom as a Service World Tour and Human Skills - with Yitzchok Willroth</title>
+      <link>http://freethegeek.fm/episode/episode-0004</link>
+      <description>In this episode, I have a fireside chat with Yitzchok Willroth, the one and only [coderabbi](https://twitter.com/@coderabbi), about a his [Wisdom as a Service World Tour](http://wisdomworldtour.com/).</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0004.mp3" length="47687013" type="audio/x-mp3"/>
+      <pubDate>Thu, 03 Sep 2015 15:00:00 +0200</pubDate>
+      <itunes:duration>49:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode, I have a fireside chat with Yitzchok Willroth, the one and only [coderabbi](https://twitter.com/@coderabbi), about a his [Wisdom as a Service World Tour](http://wisdomworldtour.com/).</itunes:subtitle>
+      <itunes:summary>In this episode, I have a fireside chat with Yitzchok Willroth, the one and only [coderabbi](https://twitter.com/@coderabbi), about a his [Wisdom as a Service World Tour](http://wisdomworldtour.com/).</itunes:summary>
+    </item>
+    <item>
+      <title>Being a Professional Developer - with Cal Evans</title>
+      <link>http://freethegeek.fm/episode/episode-0003</link>
+      <description>In this episode, I have a fireside chat with voice of the PHP community, the one and only, [Cal Evans](http://blog.calevans.com/), about one of his books - [Going Pro](https://leanpub.com/goingpro).</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0003.mp3" length="39816586" type="audio/x-mp3"/>
+      <pubDate>Mon, 17 Aug 2015 03:00:00 +0200</pubDate>
+      <itunes:duration>41:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode, I have a fireside chat with voice of the PHP community, the one and only, [Cal Evans](http://blog.calevans.com/), about one of his books - [Going Pro](https://leanpub.com/goingpro).</itunes:subtitle>
+      <itunes:summary>In this episode, I have a fireside chat with voice of the PHP community, the one and only, [Cal Evans](http://blog.calevans.com/), about one of his books - [Going Pro](https://leanpub.com/goingpro).</itunes:summary>
+    </item>
+    <item>
+      <title>The Mythical Man Month with Paul M. Jones &amp; Speaking Engagements</title>
+      <link>http://freethegeek.fm/episode/episode-0002</link>
+      <description>In this episode, I have a fireside chat with internationally recognized PHP expert, and all around good fella Paul M. Jones, about one of his all-time favorite books - The Mythical Man Month.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0002.mp3" length="25925466" type="audio/x-mp3"/>
+      <pubDate>Mon, 03 Aug 2015 03:00:00 +0200</pubDate>
+      <itunes:duration>53:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this episode, I have a fireside chat with internationally recognized PHP expert, and all around good fella Paul M. Jones, about one of his all-time favorite books - The Mythical Man Month.</itunes:subtitle>
+      <itunes:summary>In this episode, I have a fireside chat with internationally recognized PHP expert, and all around good fella Paul M. Jones, about one of his all-time favorite books - The Mythical Man Month.</itunes:summary>
+    </item>
+    <item>
+      <title>Getting Underway, The E-Myth Revisited, and Networking For Success</title>
+      <link>http://freethegeek.fm/episode/episode-0001</link>
+      <description>In this, the first episode, Matt talks about what lead to the podcast getting started who motivated him and inspired him to get started. After that, he discusses a fantastic book that all freelancers should read.</description>
+      <author>matthew@freethegeek.fm (FreetheGeek.fm with Matthew Setter)</author>
+      <enclosure url="http://traffic.libsyn.com/thegeekyfreelancer/FreeTheGeek-Episode0001.mp3" length="37676715" type="audio/x-mp3"/>
+      <pubDate>Mon, 13 Jul 2015 03:00:00 +0200</pubDate>
+      <itunes:duration>26:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Freelancing</itunes:keywords>
+      <itunes:subtitle>In this, the first episode, Matt talks about what lead to the podcast getting started who motivated him and inspired him to get started. After that, he discusses a fantastic book that all freelancers should read.</itunes:subtitle>
+      <itunes:summary>In this, the first episode, Matt talks about what lead to the podcast getting started who motivated him and inspired him to get started. After that, he discusses a fantastic book that all freelancers should read.</itunes:summary>
+    </item>
+  </channel>
+</rss>

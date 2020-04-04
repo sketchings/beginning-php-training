@@ -1,0 +1,130 @@
+{
+    "collection": {
+        "books": [
+            {
+                "title": "Sams Teach Yourself SQL\u2122 in 10 Minutes",
+                "link": "https://www.goodreads.com/review/show/1874591524?utm_medium=api&utm_source=rss",
+                "book_id": "173346",
+                "book_image_url": "https://images.gr-assets.com/books/1348383230s/173346.jpg",
+                "book_description": "Offering a tutorial to the themes and techniques involved in applying the SQL language, this book includes coverage of versions of major commercial SQL platforms. It also covers MySQL, and PostgreSQL. It contains examples which have been tested against each SQL platform, with incompatibilities or platform distinctives called out and explained.",
+                "num_pages": "242",
+                "author_name": "Ben Forta",
+                "isbn": "0672325675",
+                "average_rating": "3.90",
+                "book_published": "1999"
+            },
+            {
+                "title": "Uncle Cal's Career Advice to Developers",
+                "link": "https://www.goodreads.com/review/show/1874593619?utm_medium=api&utm_source=rss",
+                "book_id": "31458197",
+                "book_image_url": "https://images.gr-assets.com/books/1471340263s/31458197.jpg",
+                "book_description": "Gather 'round kiddies. Pull you up a spot on the porch and listen as Uncle Cal tells you a tale. Let Uncle Cal share with you five points you can use to have a happier, healthier, and more productive career. Mind your toes, don't want to get them caught in his rocking chair.",
+                "num_pages": "16",
+                "author_name": "Cal Evans",
+                "isbn": "",
+                "average_rating": "5.00",
+                "book_published": ""
+            },
+            {
+                "title": "Modernizing Legacy Applications in PHP",
+                "link": "https://www.goodreads.com/review/show/1874590126?utm_medium=api&utm_source=rss",
+                "book_id": "21621531",
+                "book_image_url": "https://images.gr-assets.com/books/1399652981s/21621531.jpg",
+                "book_description": "Get your code under control in a series of small, specific steps.<br /><br />As you apply these incremental refactorings in order, each one building on the last, you will steadily transform your legacy PHP application from a spaghetti mess to an organized, modern, testable application, free of globals and mixed concerns.",
+                "num_pages": "222",
+                "author_name": "Paul M. Jones",
+                "isbn": "",
+                "average_rating": "4.33",
+                "book_published": "2014"
+            },
+            {
+                "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+                "link": "https://www.goodreads.com/review/show/1874579128?utm_medium=api&utm_source=rss",
+                "book_image_url": "https://images.gr-assets.com/books/1436202607s/3735293.jpg",
+                "book_description": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way. Noted software expert Robert C. Martin presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship . Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code &quot;on the fly&quot; into a book that will instill within you the values of a software craftsman and make you a better programmer-but only if you work at it. What kind of work will you be doing? You'll be reading code-lots of code. And you will be challenged to think about what's right about that code, and what's wrong with it. More importantly, you will be challenged to reassess your professional values and your commitment to your craft. Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code-of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and &quot;smells&quot; gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code. Readers will come away from this book understanding How to tell the difference between good and bad code How to write good code and how to transform bad code into good code How to create good names, good functions, good objects, and good classes How to format code for maximum readability How to implement complete error handling without obscuring code logic How to unit test and practice test-driven development This book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code.",
+                "num_pages": "434",
+                "author_name": "Robert C. Martin",
+                "isbn": "0132350882",
+                "average_rating": "4.34",
+                "book_published": "2007"
+            },
+            {
+                "title": "Head First Design Patterns",
+                "link": "https://www.goodreads.com/review/show/1874577880?utm_medium=api&utm_source=rss",
+                "book_image_url": "https://images.gr-assets.com/books/1408309444s/58128.jpg",
+                "book_description": "You're not alone.<br /><br /> At any given moment, somewhere in the world someone struggles with the same software design problems you have. You know you don't want to reinvent the wheel (or worse, a flat tire), so you look to Design Patterns--the lessons learned by those who've faced the same problems. With Design Patterns, you get to take advantage of the best practices and experience of others, so that you can spend your time on...something else. Something more challenging. Something more complex. Something more fun.<br /><br /> You want to learn about the patterns that matter--why to use them, when to use them, how to use them (and when NOT to use them). But you don't just want to see how patterns look in a book, you want to know how they look &quot;in the wild&quot;. In their native environment. In other words, in real world applications. You also want to learn how patterns are used in the Java API, and how to exploit Java's built-in pattern support in your own code.<br /><br /> You want to learn the real OO design principles and why everything your boss told you about inheritance might be wrong (and what to do instead). You want to learn how those principles will help the next time you're up a creek without a design pattern.<br /><br /> Most importantly, you want to learn the &quot;secret language&quot; of Design Patterns so that you can hold your own with your co-worker (and impress cocktail party guests) when he casually mentions his stunningly clever use of Command, Facade, Proxy, and Factory in between sips of a martini. You'll easily counter with your deep understanding of why Singleton isn't as simple as it sounds, how the Factory is so often misunderstood, or on the real relationship between Decorator, Facade and Adapter.<br /><br /> With <i>Head First Design Patterns</i>, you'll avoid the embarrassment of thinking Decorator is something from the &quot;Trading Spaces&quot; show. Best of all, in a way that won't put you to sleep! We think your time is too important (and too short) to spend it struggling with academic texts.<br /><br /> If you've read a Head First book, you know what to expect--a visually rich format designed for the way your brain works. Using the latest research in neurobiology, cognitive science, and learning theory, <i>Head First Design Patterns</i> will load patterns into your brain in a way that sticks. In a way that lets you put them to work immediately. In a way that makes you better at solving software design problems, and better at speaking the language of patterns with others on your team.",
+                "num_pages": "638",
+                "author_name": "Eric Freeman",
+                "isbn": "0596007124",
+                "average_rating": "4.21",
+                "book_published": "2004"
+            },
+            {
+                "title": "Refactoring: Improving the Design of Existing Code",
+                "link": "https://www.goodreads.com/book/show/35135772-refactoring",
+                "book_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925632i/44936._SX50_.jpg",
+                "book_description": "As the application of object technology\u2014particularly the Java programming language\u2014has become commonplace, a new problem has emerged to confront the software development community. Significant numbers of poorly designed programs have been created by less-experienced developers, resulting in applications that are inefficient and hard to maintain and extend. Increasingly, software system professionals are discovering just how difficult it is to work with these inherited, non-optimal applications. For several years, expert-level object programmers have employed a growing collection of techniques to improve the structural integrity and performance of such existing software programs. Referred to as refactoring, these practices have remained in the domain of experts because no attempt has been made to transcribe the lore into a form that all developers could use... until now. In <i>Refactoring: Improving the Design of Existing Software</i>, renowned object technology mentor Martin Fowler breaks new ground, demystifying these master practices and demonstrating how software practitioners can realize the significant benefits of this new process.",
+                "num_pages": "448",
+                "author_name": "Martin Fowler",
+                "isbn": "0134757599",
+                "average_rating": "4.24",
+                "book_published": "2018"
+            },
+            {
+                "title": "Code Complete",
+                "link": "https://www.goodreads.com/review/show/1874577784?utm_medium=api&utm_source=rss",
+                "book_image_url": "https://images.gr-assets.com/books/1396837641s/4845.jpg",
+                "book_description": "For more than a decade, Steve McConnell, one of the premier authors and voices in the software community, has helped change the way developers write code - and produce better software. Now his classic book, CODE COMPLETE, has been fully updated and revised with best practices in the art and science of constructing software. Whether youre a new developer seeking a sound introduction to the practice of software development or a veteran exploring strategic new approaches to problem solving, youll find a wealth of practical suggestions and methods for strengthening your skills. Topics include design, applying good techniques to construction, eliminating errors, planning, managing construction activities, and relating personal character to superior software. This new edition features fully updated information on programming techniques, including the emergence of Web-style programming, and integrated coverage of object-oriented design. Youll also find new code examples - both good and bad - in C++, Microsoft Visual Basic, C#, and Java, though the focus is squarely on techniques and practices.",
+                "num_pages": "914",
+                "author_name": "Steve McConnell",
+                "isbn": "0735619670",
+                "average_rating": "4.26",
+                "book_published": "1993"
+            },
+            {
+                "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+                "link": "https://www.goodreads.com/review/show/1874577714?utm_medium=api&utm_source=rss",
+                "book_image_url": "https://images.gr-assets.com/books/1348027904s/85009.jpg",
+                "book_description": "Capturing a wealth of experience about the design of object-oriented software, four top-notch designers present a catalog of simple and succinct solutions to commonly occurring design problems. Previously undocumented, these 23 patterns allow designers to create more flexible, elegant, and ultimately reusable designs without having to rediscover the design solutions themselves.<br /><br />The authors begin by describing what patterns are and how they can help you design object-oriented software. They then go on to systematically name, explain, evaluate, and catalog recurring designs in object-oriented systems. With Design Patterns as your guide, you will learn how these important patterns fit into the software development process, and how you can leverage them to solve your own design problems most efficiently.<p> Each pattern describes the circumstances in which it is applicable, when it can be applied in view of other design constraints, and the consequences and trade-offs of using the pattern within a larger design. All patterns are compiled from real systems and are based on real-world examples. Each pattern also includes code that demonstrates how it may be implemented in object-oriented programming languages like C++ or Smalltalk.</p>",
+                "num_pages": "416",
+                "author_name": "Erich Gamma",
+                "isbn": "0201633612",
+                "average_rating": "4.14",
+                "book_published": "1994"
+            },
+            {
+                "title": "The Mythical Man-Month: Essays on Software Engineering",
+                "link": "https://www.goodreads.com/review/show/1874577419?utm_medium=api&utm_source=rss",
+                "book_image_url": "https://images.gr-assets.com/books/1348430512s/13629.jpg",
+                "book_description": "Few books on software project management have been as influential and timeless as The Mythical Man-Month. With a blend of software engineering facts and thought-provoking opinions, Fred Brooks offers insight for anyone managing complex projects. These essays draw from his experience as project manager for the IBM System/360 computer family and then for OS/360, its massive software system. Now, 20 years after the initial publication of his book, Brooks has revisited his original ideas and added new thoughts and advice, both for readers already familiar with his work and for readers discovering it for the first time.<p>The added chapters contain (1) a crisp condensation of all the propositions asserted in the original book, including Brooks' central argument in The Mythical Man-Month: that large programming projects suffer management problems different from small ones due to the division of labor; that the conceptual integrity of the product is therefore critical; and that it is difficult but possible to achieve this unity; (2) Brooks' view of these propositions a generation later; (3) a reprint of his classic 1986 paper &quot;No Silver Bullet&quot;; and (4) today's thoughts on the 1986 assertion, &quot;There will be no silver bullet within ten years.&quot;</p>",
+                "num_pages": "322",
+                "author_name": "Frederick P. Brooks Jr.",
+                "isbn": "0201835959",
+                "average_rating": "4.05",
+                "book_published": "1975"
+            },
+            {
+                "title": "The Pragmatic Programmer: From Journeyman to Master",
+                "link": "https://www.goodreads.com/review/show/1874576741?utm_medium=api&utm_source=rss",
+                "book_image_url": "https://images.gr-assets.com/books/1401432508s/4099.jpg",
+                "book_description": "-- Ward Cunningham Straight from the programming trenches, The Pragmatic Programmer cuts through the increasing specialization and technicalities of modern software development to examine the core process--taking a requirement and producing working, maintainable code that delights its users. It covers topics ranging from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse. Read this book, and youll learn how to *Fight software rot; *Avoid the trap of duplicating knowledge; *Write flexible, dynamic, and adaptable code; *Avoid programming by coincidence; *Bullet-proof your code with contracts, assertions, and exceptions; *Capture real requirements; *Test ruthlessly and effectively; *Delight your users; *Build teams of pragmatic programmers; and *Make your developments more precise with automation. Written as a series of self-contained sections and filled with entertaining anecdotes, thoughtful examples, and interesting analogies, The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development. Whether youre a new coder, an experienced programm",
+                "num_pages": "321",
+                "author_name": "Andrew Hunt",
+                "isbn": "020161622X",
+                "average_rating": "4.31",
+                "book_published": "1999"
+            },
+            {
+                "title": "Refactoring to Collections",
+                "link": "https://www.goodreads.com/book/show/30238532-refactoring-to-collections",
+                "book_image_url": "https://images.gr-assets.com/books/1465685137s/30238532.jpg",
+                "book_description": "&#34;Refactoring to Collections&#34; is a book and video course that teaches you how to apply functional programming principles to write clean, maintainable PHP.\r\n\r\nLearn how to use collection pipelines to break down ugly, complex functions into a series of simple transformations, free of loops, complex conditionals, and temporary variables.\r\n\r\nThe first section of the book focuses on teaching you the theory and fundamentals you need to to start applying functional programming principles to your code.\r\n\r\nYou&#39;ll learn about the difference between imperative and declarative code, how to use higher order functions to remove duplication, and how to reimplement fundamental operations like map, reduce, and filter from first principles.\r\n\r\nThe second section of the book and the companion screencasts are a deep dive into problem solving with Laravel&#39;s Collection library.\r\n\r\nThrough 15 in-depth examples, we walk through everything from beginner to expert level problems, using advanced operations like zip and transpose, and even extending the library with our own custom transformations.",
+                "num_pages": "153",
+                "author_name": "Adam Wathan",
+                "isbn": "",
+                "average_rating": "493",
+                "book_published": "2016"
+            }
+        ]
+    }
+}

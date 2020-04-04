@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>The PHP Roundtable</title>
+    <link>https://www.phproundtable.com</link>
+    <description><![CDATA[The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source, and anything else PHP nerds care about. It is broadcast live from Google Hangouts On-Air. For complete show notes or to watch the episodes in video format visit PHPRoundtable.com. And join the conversation live! Just subscribe to the newsletter at www.phproundtable.com and never miss a live show.]]></description>
+    <language>en-us</language>
+    <copyright>© PHP Roundtable, 2017.</copyright>
+    <category>Education</category>
+    <category>Technology</category>
+    <image>
+      <url>https://php-roundtable.s3.amazonaws.com/images/rss-cover-small.jpg</url>
+      <title>The PHP Roundtable</title>
+      <link>https://www.phproundtable.com</link>
+      <description>A casual gathering of developers discussing topics that PHP nerds care about.</description>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <itunes:subtitle>A casual gathering of developers discussing topics that PHP nerds care about.</itunes:subtitle>
+    <itunes:summary>The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source, and anything else PHP nerds care about. It is broadcast live from Google Hangouts On-Air. For complete show notes or to watch the episodes in video format visit &lt;a href="https://www.phproundtable.com/"&gt;PHPRoundtable.com&lt;/a&gt;. And join the conversation live! Just &lt;a href="https://www.phproundtable.com/"&gt;subscribe to the newsletter&lt;/a&gt; and never miss a live show.</itunes:summary>
+    <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+    <itunes:author>PHP Roundtable</itunes:author>
+    
+    
+    
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/PhpRoundtable" /><feedburner:info uri="phproundtable" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>© PHP Roundtable, 2017.</media:copyright><media:thumbnail url="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" /><media:keywords>PHP,web,development,JavaScript</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education/Educational Technology</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category><itunes:owner><itunes:email>sammyk@phproundtable.com</itunes:email></itunes:owner><itunes:explicit>no</itunes:explicit><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><itunes:category text="Education"><itunes:category text="Educational Technology" /></itunes:category><itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category><item>
+      <title>058: HTTPlug, Guzzle &amp; API's</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/a-3qW-Sj5q8/httplug-guzzle-and-apis</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/httplug-guzzle-and-apis</guid>
+      <description>Guzzle has become the de-facto HTTP-client library for PHP. But recently a number of open source projects have been switching to HTTPlug which boasts itself as an HTTP-client abstraction. We chat about the problems HTTPlug aims to solve, the plans for its future and the reasons behind why some library maintainers have chosen to adopt it or not.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/a-3qW-Sj5q8" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/058-httplug-guzzle-and-apis.m4a" length="26732534" type="audio/x-m4a" />
+      <pubDate>Thu, 05 Jan 2017 10:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3259</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Guzzle has become the de-facto HTTP-client library for PHP. But recently a number of open source projects have been switching to HTTPlug which boasts itself as an HTTP-client abstraction. We chat about the problems HTTPlug aims to solve, the plans for...</itunes:subtitle>
+      <itunes:summary><![CDATA[Guzzle has become the de-facto HTTP-client library for PHP. But recently a number of open source projects have been switching to HTTPlug which boasts itself as an HTTP-client abstraction. We chat about the problems HTTPlug aims to solve, the plans for its future and the reasons behind why some library maintainers have chosen to adopt it or not.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/058-httplug-guzzle-and-apis.m4a" fileSize="26732534" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/httplug-guzzle-and-apis</feedburner:origLink></item>
+    <item>
+      <title>057: All things Zend</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/qVPznFi2oxs/all-things-zend-framework-apigility-certification</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/all-things-zend-framework-apigility-certification</guid>
+      <description>There's a lot more going on at Zend other than Zend Framework. We chat about the Zend ecosystem, from Apigility to Zend Certification and what Zend's role is in PHP internals.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/qVPznFi2oxs" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/057-all-things-zend.m4a" length="32091759" type="audio/x-m4a" />
+      <pubDate>Tue, 20 Dec 2016 12:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3914</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>There's a lot more going on at Zend other than Zend Framework. We chat about the Zend ecosystem, from Apigility to Zend Certification and what Zend's role is in PHP internals.</itunes:subtitle>
+      <itunes:summary><![CDATA[There's a lot more going on at Zend other than Zend Framework. We chat about the Zend ecosystem, from Apigility to Zend Certification and what Zend's role is in PHP internals.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/057-all-things-zend.m4a" fileSize="32091759" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/all-things-zend-framework-apigility-certification</feedburner:origLink></item>
+    <item>
+      <title>056: Hourly vs Value-Based Pricing</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/8V7Opd_6LoU/hourly-vs-value-based-pricing</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/hourly-vs-value-based-pricing</guid>
+      <description>There are two seemingly contradicting philosophies about how to charge clients for programming work. The hourly camp suggests that the client is paying for your skill and hiring you for your time. The value-based pricing camp suggests that the programmer should price a project based on its value to the client instead of the hours it will take to build it. Today we chat about these two ideas and discuss the pros and cons of both.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/8V7Opd_6LoU" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/056-hourly-vs-value-based-pricing.m4a" length="24949566" type="audio/x-m4a" />
+      <pubDate>Mon, 07 Nov 2016 14:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3041</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>There are two seemingly contradicting philosophies about how to charge clients for programming work. The hourly camp suggests that the client is paying for your skill and hiring you for your time. The value-based pricing camp suggests that the programm...</itunes:subtitle>
+      <itunes:summary><![CDATA[There are two seemingly contradicting philosophies about how to charge clients for programming work. The hourly camp suggests that the client is paying for your skill and hiring you for your time. The value-based pricing camp suggests that the programmer should price a project based on its value to the client instead of the hours it will take to build it. Today we chat about these two ideas and discuss the pros and cons of both.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/056-hourly-vs-value-based-pricing.m4a" fileSize="24949566" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/hourly-vs-value-based-pricing</feedburner:origLink></item>
+    <item>
+      <title>055: Acceptance Testing with Behat</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/JDMeRvXmcmk/acceptance-testing-with-behat</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/acceptance-testing-with-behat</guid>
+      <description>We chat about the open-source Behavior-Driven Development framework called Behat. We get a brief overview of how Behat can help us write more reliable code and also explore some best-practices when writing automated tests.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/JDMeRvXmcmk" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/055-acceptance-testing-with-behat.m4a" length="34464721" type="audio/x-m4a" />
+      <pubDate>Thu, 03 Nov 2016 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4204</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>We chat about the open-source Behavior-Driven Development framework called Behat. We get a brief overview of how Behat can help us write more reliable code and also explore some best-practices when writing automated tests.</itunes:subtitle>
+      <itunes:summary><![CDATA[We chat about the open-source Behavior-Driven Development framework called Behat. We get a brief overview of how Behat can help us write more reliable code and also explore some best-practices when writing automated tests.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/055-acceptance-testing-with-behat.m4a" fileSize="34464721" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/acceptance-testing-with-behat</feedburner:origLink></item>
+    <item>
+      <title>054: Security: Encryption, Hashing and PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/_d2HyRX2ZWE/security-encryption-hashing-and-php</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/security-encryption-hashing-and-php</guid>
+      <description>We chat about security in the the PHP community, encryption &amp;amp; hashing in PHP and a new-hotness crypto library called libsodium.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/_d2HyRX2ZWE" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/054-security-encryption-hashing-and-php.m4a" length="34610980" type="audio/x-m4a" />
+      <pubDate>Tue, 25 Oct 2016 14:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4222</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>We chat about security in the the PHP community, encryption &amp;amp; hashing in PHP and a new-hotness crypto library called libsodium.</itunes:subtitle>
+      <itunes:summary><![CDATA[We chat about security in the the PHP community, encryption &amp; hashing in PHP and a new-hotness crypto library called libsodium.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/054-security-encryption-hashing-and-php.m4a" fileSize="34610980" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/security-encryption-hashing-and-php</feedburner:origLink></item>
+    <item>
+      <title>053: Why I'm Afraid To Admit I Use PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/jsm0rydfmUw/why-im-afraid-to-admit-im-a-php-programmer</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/why-im-afraid-to-admit-im-a-php-programmer</guid>
+      <description>So you spend most of your time programming in PHP. You meet another programmer out in the wild. You begin explaining what you do. Do you find yourself using vague terms and actively trying to avoid the word &amp;quot;PHP?&amp;quot; Do you dread the question, &amp;quot;What language do you primarily code in?&amp;quot; Do you anticipate them scoffing at you when you say, &amp;quot;PHP?&amp;quot;
+We discuss why PHP has such a bad rep in the eyes of many and why some of us feel the need to start conversations with, &amp;quot;I use PHP but let me explain...&amp;quot;&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/jsm0rydfmUw" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/053-why-im-afraid-to-admit-i-use-php.m4a" length="35754006" type="audio/x-m4a" />
+      <pubDate>Fri, 02 Sep 2016 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4362</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:subtitle>So you spend most of your time programming in PHP. You meet another programmer out in the wild. You begin explaining what you do. Do you find yourself using vague terms and actively trying to avoid the word &amp;quot;PHP?&amp;quot; Do you dread the question, &amp;...</itunes:subtitle>
+      <itunes:summary><![CDATA[So you spend most of your time programming in PHP. You meet another programmer out in the wild. You begin explaining what you do. Do you find yourself using vague terms and actively trying to avoid the word &quot;PHP?&quot; Do you dread the question, &quot;What language do you primarily code in?&quot; Do you anticipate them scoffing at you when you say, &quot;PHP?&quot;
+We discuss why PHP has such a bad rep in the eyes of many and why some of us feel the need to start conversations with, &quot;I use PHP but let me explain...&quot;]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/053-why-im-afraid-to-admit-i-use-php.m4a" fileSize="35754006" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/why-im-afraid-to-admit-im-a-php-programmer</feedburner:origLink></item>
+    <item>
+      <title>052: Happy Birthday PHP Roundtable!</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/GHbqtaQddl0/behind-the-scenes-of-two-years-of-the-php-roundtable</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/behind-the-scenes-of-two-years-of-the-php-roundtable</guid>
+      <description>Today the PHP Roundtable celebrates 2 years of generating nerdy discussions! We take a look behind the scenes of the PHP Roundtable podcast and chat with some nerds about what's going on the world of PHP.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/GHbqtaQddl0" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/052-happy-birthday-php-roundtable.m4a" length="34270904" type="audio/x-m4a" />
+      <pubDate>Thu, 25 Aug 2016 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4180</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Today the PHP Roundtable celebrates 2 years of generating nerdy discussions! We take a look behind the scenes of the PHP Roundtable podcast and chat with some nerds about what's going on the world of PHP.</itunes:subtitle>
+      <itunes:summary><![CDATA[Today the PHP Roundtable celebrates 2 years of generating nerdy discussions! We take a look behind the scenes of the PHP Roundtable podcast and chat with some nerds about what's going on the world of PHP.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/052-happy-birthday-php-roundtable.m4a" fileSize="34270904" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/behind-the-scenes-of-two-years-of-the-php-roundtable</feedburner:origLink></item>
+    <item>
+      <title>051: What happened to PHP 6?</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/4YpGBJwGXlI/what-happened-to-php-6</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/what-happened-to-php-6</guid>
+      <description>Despite the fact that there was never an official release of PHP 6, it was going to be a real thing with a lot of great improvements to the engine and language. But why was this version of PHP never released? We talk with some previous and current internals developers to hear the story of what happened to PHP 6.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/4YpGBJwGXlI" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/051-what-happened-to-php-6.m4a" length="26006480" type="audio/x-m4a" />
+      <pubDate>Tue, 16 Aug 2016 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3170</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Despite the fact that there was never an official release of PHP 6, it was going to be a real thing with a lot of great improvements to the engine and language. But why was this version of PHP never released? We talk with some previous and current inte...</itunes:subtitle>
+      <itunes:summary><![CDATA[Despite the fact that there was never an official release of PHP 6, it was going to be a real thing with a lot of great improvements to the engine and language. But why was this version of PHP never released? We talk with some previous and current internals developers to hear the story of what happened to PHP 6.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/051-what-happened-to-php-6.m4a" fileSize="26006480" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/what-happened-to-php-6</feedburner:origLink></item>
+    <item>
+      <title>050: PHP For Beginners</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/KCNPucHQ3Ck/php-for-beginners</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/php-for-beginners</guid>
+      <description>If you're just starting with programming &amp;amp; PHP, this episode is for you. We discuss some helpful tips to get you started with PHP programming such as some helpful learning resources and some common pitfalls to watch out for when learning to program.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/KCNPucHQ3Ck" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/050-php-for-beginners.m4a" length="28351695" type="audio/x-m4a" />
+      <pubDate>Mon, 08 Aug 2016 19:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3457</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>If you're just starting with programming &amp;amp; PHP, this episode is for you. We discuss some helpful tips to get you started with PHP programming such as some helpful learning resources and some common pitfalls to watch out for when learning to program.</itunes:subtitle>
+      <itunes:summary><![CDATA[If you're just starting with programming &amp; PHP, this episode is for you. We discuss some helpful tips to get you started with PHP programming such as some helpful learning resources and some common pitfalls to watch out for when learning to program.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/050-php-for-beginners.m4a" fileSize="28351695" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/php-for-beginners</feedburner:origLink></item>
+    <item>
+      <title>049: Event Sourcing in PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/f1Vt68BxGZM/event-sourcing-in-php</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/event-sourcing-in-php</guid>
+      <description>We spend much of our time as developers managing the state in our applications. There are many different approaches and philosophies attributed to reading, mutating and storing state.
+The Event Sourcing pattern is an approach to managing application state. If we think of any given state of our app as a frame in a video, Event Sourcing allows us to scrub through past states of the app. Today we discuss what Event Sourcing is and how we can start integrating it into our PHP apps.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/f1Vt68BxGZM" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/049-event-sourcing-in-php.m4a" length="21412655" type="audio/x-m4a" />
+      <pubDate>Sun, 10 Jul 2016 14:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>2608</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>We spend much of our time as developers managing the state in our applications. There are many different approaches and philosophies attributed to reading, mutating and storing state.
+The Event Sourcing pattern is an approach to managing application st...</itunes:subtitle>
+      <itunes:summary><![CDATA[We spend much of our time as developers managing the state in our applications. There are many different approaches and philosophies attributed to reading, mutating and storing state.
+The Event Sourcing pattern is an approach to managing application state. If we think of any given state of our app as a frame in a video, Event Sourcing allows us to scrub through past states of the app. Today we discuss what Event Sourcing is and how we can start integrating it into our PHP apps.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/049-event-sourcing-in-php.m4a" fileSize="21412655" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/event-sourcing-in-php</feedburner:origLink></item>
+    <item>
+      <title>048: Docker &amp; PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/ZRkrfnml4tQ/docker-and-php</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/docker-and-php</guid>
+      <description>The demand for DevOps skills is growing more and more in modern web development. But all the hype and demand is met with myriad DevOps tools. Staying abreast of how these tools can help make our jobs easier can be daunting. So today we take a closer look at one of these tools called Docker which takes a microservices-architecture approach to managing your servers.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/ZRkrfnml4tQ" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/048-docker-and-php.m4a" length="28522184" type="audio/x-m4a" />
+      <pubDate>Thu, 23 Jun 2016 18:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3477</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>The demand for DevOps skills is growing more and more in modern web development. But all the hype and demand is met with myriad DevOps tools. Staying abreast of how these tools can help make our jobs easier can be daunting. So today we take a closer lo...</itunes:subtitle>
+      <itunes:summary><![CDATA[The demand for DevOps skills is growing more and more in modern web development. But all the hype and demand is met with myriad DevOps tools. Staying abreast of how these tools can help make our jobs easier can be daunting. So today we take a closer look at one of these tools called Docker which takes a microservices-architecture approach to managing your servers.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/048-docker-and-php.m4a" fileSize="28522184" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/docker-and-php</feedburner:origLink></item>
+    <item>
+      <title>047: All About HTTP/2</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/gwTAeR3DJRE/all-about-http2</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/all-about-http2</guid>
+      <description>HTTP/1.1 will eventually be replaced by HTTP/2 so it's important for us PHP nerds to know all about the latest version of the HTTP protocol that's already running some of the internet's biggest websites. We discuss the things we need to know to start using HTTP/2 in our next PHP app.
+We also go briefly off topic to discuss the status of PHP 7.1 and the ramsey/uuid lib.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/gwTAeR3DJRE" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/047-all-about-http2.m4a" length="32447697" type="audio/x-m4a" />
+      <pubDate>Thu, 16 Jun 2016 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3957</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>HTTP/1.1 will eventually be replaced by HTTP/2 so it's important for us PHP nerds to know all about the latest version of the HTTP protocol that's already running some of the internet's biggest websites. We discuss the things we need to know to start u...</itunes:subtitle>
+      <itunes:summary><![CDATA[HTTP/1.1 will eventually be replaced by HTTP/2 so it's important for us PHP nerds to know all about the latest version of the HTTP protocol that's already running some of the internet's biggest websites. We discuss the things we need to know to start using HTTP/2 in our next PHP app.
+We also go briefly off topic to discuss the status of PHP 7.1 and the ramsey/uuid lib.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/047-all-about-http2.m4a" fileSize="32447697" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/all-about-http2</feedburner:origLink></item>
+    <item>
+      <title>046: Character Encoding and UTF-8 in PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/IEfR1SOwXoE/character-encoding-and-utf-8-in-php</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/character-encoding-and-utf-8-in-php</guid>
+      <description>If you've ever gotten a number of weird looking characters in your database or on your website like, &amp;quot;�&amp;quot; and didn't know why, then this episode is for you. Those bizarre characters called &amp;quot;mojibake&amp;quot;, rear their ugly heads when we don't account for a consistent character encoding. Today we discuss what character encoding is, how to accommodate for it in HTML, PHP &amp;amp; your database, and how we can ensure we'll never encounter an unexpected alien character in our web apps again.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/IEfR1SOwXoE" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/046-character-encoding-and-utf-8-in-php.m4a" length="33238301" type="audio/x-m4a" />
+      <pubDate>Mon, 30 May 2016 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4054</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>If you've ever gotten a number of weird looking characters in your database or on your website like, &amp;quot;�&amp;quot; and didn't know why, then this episode is for you. Those bizarre characters called &amp;quot;mojibake&amp;quot;, rear their ugly heads when we do...</itunes:subtitle>
+      <itunes:summary><![CDATA[If you've ever gotten a number of weird looking characters in your database or on your website like, &quot;�&quot; and didn't know why, then this episode is for you. Those bizarre characters called &quot;mojibake&quot;, rear their ugly heads when we don't account for a consistent character encoding. Today we discuss what character encoding is, how to accommodate for it in HTML, PHP &amp; your database, and how we can ensure we'll never encounter an unexpected alien character in our web apps again.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/046-character-encoding-and-utf-8-in-php.m4a" fileSize="33238301" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/character-encoding-and-utf-8-in-php</feedburner:origLink></item>
+    <item>
+      <title>045: A php|tek 2016 Special</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/OlB_RmthNb0/live-from-php-tek-2016</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/live-from-php-tek-2016</guid>
+      <description>We record live from main stage at php|tek in St. Louis, MO. We discuss speaking at conferences and recent events in PHP-FIG.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/OlB_RmthNb0" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/045%20-%20php%5Btek%5D%202016.m4a" length="30527432" type="audio/x-m4a" />
+      <pubDate>Thu, 26 May 2016 20:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3723</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>We record live from main stage at php|tek in St. Louis, MO. We discuss speaking at conferences and recent events in PHP-FIG.</itunes:subtitle>
+      <itunes:summary><![CDATA[We record live from main stage at php|tek in St. Louis, MO. We discuss speaking at conferences and recent events in PHP-FIG.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/045%20-%20php%5Btek%5D%202016.m4a" fileSize="30527432" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/live-from-php-tek-2016</feedburner:origLink></item>
+    <item>
+      <title>044: Asynchronous PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/K4WSi7TMPT8/asynchronous-php</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/asynchronous-php</guid>
+      <description>Async? Isn't that like AJAX in Javascript or something? Most PHP developers encounter asynchronous code for the first time in Javascript, but not many are aware that PHP can do async too. We discuss asynchronous programming in PHP and how we might be able to implement it in our own projects using various libraries.
+We also take a look at how async features could be added to PHP core to support async natively.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/K4WSi7TMPT8" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/044-asynchronous-php.m4a" length="29348795" type="audio/x-m4a" />
+      <pubDate>Thu, 14 Apr 2016 19:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3578</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Async? Isn't that like AJAX in Javascript or something? Most PHP developers encounter asynchronous code for the first time in Javascript, but not many are aware that PHP can do async too. We discuss asynchronous programming in PHP and how we might be a...</itunes:subtitle>
+      <itunes:summary><![CDATA[Async? Isn't that like AJAX in Javascript or something? Most PHP developers encounter asynchronous code for the first time in Javascript, but not many are aware that PHP can do async too. We discuss asynchronous programming in PHP and how we might be able to implement it in our own projects using various libraries.
+We also take a look at how async features could be added to PHP core to support async natively.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/044-asynchronous-php.m4a" fileSize="29348795" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/asynchronous-php</feedburner:origLink></item>
+    <item>
+      <title>043: A Lone Star PHP 2016 Special</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/URNKTd5JNYc/a-lone-star-php-2016-special</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/a-lone-star-php-2016-special</guid>
+      <description>We record live from Lone Star PHP 2016 in Dallas, TX. We discuss what DI Containers aren't, tradeoffs to making things easy, how to improve your dev skills, repercussions of depending on Composer, PHP 7.1 features and we give away a white Confoo elePHPant.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/URNKTd5JNYc" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/043-lone-star-php-special.m4a" length="30466780" type="audio/x-m4a" />
+      <pubDate>Sat, 09 Apr 2016 18:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3715</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:subtitle>We record live from Lone Star PHP 2016 in Dallas, TX. We discuss what DI Containers aren't, tradeoffs to making things easy, how to improve your dev skills, repercussions of depending on Composer, PHP 7.1 features and we give away a white Confoo elePHP...</itunes:subtitle>
+      <itunes:summary><![CDATA[We record live from Lone Star PHP 2016 in Dallas, TX. We discuss what DI Containers aren't, tradeoffs to making things easy, how to improve your dev skills, repercussions of depending on Composer, PHP 7.1 features and we give away a white Confoo elePHPant.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/043-lone-star-php-special.m4a" fileSize="30466780" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/a-lone-star-php-2016-special</feedburner:origLink></item>
+    <item>
+      <title>042: Staying Relevant For Web Development</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/3K3_kqFBUKM/staying-relevant-in-an-ever-changing-web-development-world</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/staying-relevant-in-an-ever-changing-web-development-world</guid>
+      <description>The technologies that run the web are constantly changing. We discuss strategies for staying on top of the constant flux with continuous learning throughout your career, having mentors, engaging regularly with your peers, contributing to open source projects, voracious reading, and travel to programming events.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/3K3_kqFBUKM" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/042-staying-relevant.m4a" length="29300236" type="audio/x-m4a" />
+      <pubDate>Tue, 22 Mar 2016 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3573</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>The technologies that run the web are constantly changing. We discuss strategies for staying on top of the constant flux with continuous learning throughout your career, having mentors, engaging regularly with your peers, contributing to open source pr...</itunes:subtitle>
+      <itunes:summary><![CDATA[The technologies that run the web are constantly changing. We discuss strategies for staying on top of the constant flux with continuous learning throughout your career, having mentors, engaging regularly with your peers, contributing to open source projects, voracious reading, and travel to programming events.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/042-staying-relevant.m4a" fileSize="29300236" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/staying-relevant-in-an-ever-changing-web-development-world</feedburner:origLink></item>
+    <item>
+      <title>041: The PHP-FIG: Past, Present &amp; Future</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/-ZyJTp6_7Jo/the-php-framework-interop-group-past-present-future</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/the-php-framework-interop-group-past-present-future</guid>
+      <description>The PHP-FIG has really helped the PHP community get onboard the collaboration train with really great standards like the PSR-4 autoloading standard and the PSR-7 HTTP message interfaces.
+We discuss PSR-0 through PSR-13 and the process they go through to become standards. We also discuss where the FIG came from and the possible big changes coming to the organization soon.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/-ZyJTp6_7Jo" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/041-the-php-fig.m4a" length="39472720" type="audio/x-m4a" />
+      <pubDate>Wed, 09 Mar 2016 12:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4816</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>The PHP-FIG has really helped the PHP community get onboard the collaboration train with really great standards like the PSR-4 autoloading standard and the PSR-7 HTTP message interfaces.
+We discuss PSR-0 through PSR-13 and the process they go through t...</itunes:subtitle>
+      <itunes:summary><![CDATA[The PHP-FIG has really helped the PHP community get onboard the collaboration train with really great standards like the PSR-4 autoloading standard and the PSR-7 HTTP message interfaces.
+We discuss PSR-0 through PSR-13 and the process they go through to become standards. We also discuss where the FIG came from and the possible big changes coming to the organization soon.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/041-the-php-fig.m4a" fileSize="39472720" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/the-php-framework-interop-group-past-present-future</feedburner:origLink></item>
+    <item>
+      <title>040: Graph Databases</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/4CSUVrGyfbE/using-graph-databases-in-php</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/using-graph-databases-in-php</guid>
+      <description>Traditional relational databases like MySQL or Postgres are really good at providing many solutions to the problem of persisting state. But these types of database are really horrible at querying highly connected models in an efficient way.
+Graph databases like Neo4j and OrientDB excel at highly connected data. In fact, graph technologies are the backbone of social networks like Facebook and Twitter. We discuss how to think about our data using the graph model and what tools we can use in our PHP projects to interface with them. We also discuss the considerations we'll need to make when deciding whether or not to use a graph database in our next project.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/4CSUVrGyfbE" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/040-graph-databases.m4a" length="41673020" type="audio/x-m4a" />
+      <pubDate>Wed, 24 Feb 2016 12:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>5085</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Traditional relational databases like MySQL or Postgres are really good at providing many solutions to the problem of persisting state. But these types of database are really horrible at querying highly connected models in an efficient way.
+Graph datab...</itunes:subtitle>
+      <itunes:summary><![CDATA[Traditional relational databases like MySQL or Postgres are really good at providing many solutions to the problem of persisting state. But these types of database are really horrible at querying highly connected models in an efficient way.
+Graph databases like Neo4j and OrientDB excel at highly connected data. In fact, graph technologies are the backbone of social networks like Facebook and Twitter. We discuss how to think about our data using the graph model and what tools we can use in our PHP projects to interface with them. We also discuss the considerations we'll need to make when deciding whether or not to use a graph database in our next project.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/040-graph-databases.m4a" fileSize="41673020" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/using-graph-databases-in-php</feedburner:origLink></item>
+    <item>
+      <title>039: From Idea To Production: Part 2</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/XqUMdSdi5aM/part-2-turning-an-idea-into-code-for-production</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/part-2-turning-an-idea-into-code-for-production</guid>
+      <description>We get an update on status of the project we discussed in part 1 and discuss next steps to take our dance event management app idea to production.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/XqUMdSdi5aM" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/039-from-idea-to-production-part-2.m4a" length="31864464" type="audio/x-m4a" />
+      <pubDate>Mon, 22 Feb 2016 20:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3886</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>We get an update on status of the project we discussed in part 1 and discuss next steps to take our dance event management app idea to production.</itunes:subtitle>
+      <itunes:summary><![CDATA[We get an update on status of the project we discussed in part 1 and discuss next steps to take our dance event management app idea to production.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/039-from-idea-to-production-part-2.m4a" fileSize="31864464" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/part-2-turning-an-idea-into-code-for-production</feedburner:origLink></item>
+    <item>
+      <title>038: RFC Show &amp; Tell</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/PAvUVCSU4nQ/proposed-features-of-php-71</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/proposed-features-of-php-71</guid>
+      <description>New features of PHP get added via the request for comments process. We chatting with a few RFC authors about what features they are proposing for the next major version of PHP.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/PAvUVCSU4nQ" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/038-rfc-show-and-tell.m4a" length="39144400" type="audio/x-m4a" />
+      <pubDate>Thu, 18 Feb 2016 12:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4776</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:subtitle>New features of PHP get added via the request for comments process. We chatting with a few RFC authors about what features they are proposing for the next major version of PHP.</itunes:subtitle>
+      <itunes:summary><![CDATA[New features of PHP get added via the request for comments process. We chatting with a few RFC authors about what features they are proposing for the next major version of PHP.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/038-rfc-show-and-tell.m4a" fileSize="39144400" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/proposed-features-of-php-71</feedburner:origLink></item>
+    <item>
+      <title>037: An ORM Discussion</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/7tZeWCnCKhk/orms-and-the-active-record-data-mapper-paradigms</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/orms-and-the-active-record-data-mapper-paradigms</guid>
+      <description>Object-relational mapping (ORM) tools are a great way to model relational databases in your codebase. We discuss the benefits that ORM tools can add to our apps, some problems with the ORM model and where the PHP community seems to be heading when it comes to persisting data. We'll also discuss the opposing active record &amp;amp; data mapper paradigms.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/7tZeWCnCKhk" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/037-an-orm-discussion.m4a" length="40007135" type="audio/x-m4a" />
+      <pubDate>Wed, 03 Feb 2016 12:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4882</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Object-relational mapping (ORM) tools are a great way to model relational databases in your codebase. We discuss the benefits that ORM tools can add to our apps, some problems with the ORM model and where the PHP community seems to be heading when it c...</itunes:subtitle>
+      <itunes:summary><![CDATA[Object-relational mapping (ORM) tools are a great way to model relational databases in your codebase. We discuss the benefits that ORM tools can add to our apps, some problems with the ORM model and where the PHP community seems to be heading when it comes to persisting data. We'll also discuss the opposing active record &amp; data mapper paradigms.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/037-an-orm-discussion.m4a" fileSize="40007135" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/orms-and-the-active-record-data-mapper-paradigms</feedburner:origLink></item>
+    <item>
+      <title>036: A Room 11 Special</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/WLA8t0_vQvM/discussions-from-room-11-on-stack-overflow</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/discussions-from-room-11-on-stack-overflow</guid>
+      <description>We bring room 11 chat room from Stack Overflow to the Roundtable. We discuss security, PSR-6, Magic the Gathering, PHP 7 and kittens.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/WLA8t0_vQvM" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/036-a-room-11-special.m4a" length="42571903" type="audio/x-m4a" />
+      <pubDate>Fri, 11 Dec 2015 17:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>5195</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:subtitle>We bring room 11 chat room from Stack Overflow to the Roundtable. We discuss security, PSR-6, Magic the Gathering, PHP 7 and kittens.</itunes:subtitle>
+      <itunes:summary><![CDATA[We bring room 11 chat room from Stack Overflow to the Roundtable. We discuss security, PSR-6, Magic the Gathering, PHP 7 and kittens.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/036-a-room-11-special.m4a" fileSize="42571903" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/discussions-from-room-11-on-stack-overflow</feedburner:origLink></item>
+    <item>
+      <title>035: Immutable PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/HcG4VDLlKvA/immutability-and-functional-concepts-in-php</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/immutability-and-functional-concepts-in-php</guid>
+      <description>Immutability plays a huge role in functional programming and many languages support immutability directly; like the readonly keyword in C#. It is possible to create immutable objects in PHP, but the language lacks inherent immutable features for scalar variables and class properties. We discuss how to bring functional programming concepts to PHP and brainstorm some features that could possibly be added to future versions of PHP to offer better immutability support.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/HcG4VDLlKvA" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/035-immutable-php.m4a" length="42547851" type="audio/x-m4a" />
+      <pubDate>Tue, 24 Nov 2015 14:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>5192</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Immutability plays a huge role in functional programming and many languages support immutability directly; like the readonly keyword in C#. It is possible to create immutable objects in PHP, but the language lacks inherent immutable features for scalar...</itunes:subtitle>
+      <itunes:summary><![CDATA[Immutability plays a huge role in functional programming and many languages support immutability directly; like the readonly keyword in C#. It is possible to create immutable objects in PHP, but the language lacks inherent immutable features for scalar variables and class properties. We discuss how to bring functional programming concepts to PHP and brainstorm some features that could possibly be added to future versions of PHP to offer better immutability support.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/035-immutable-php.m4a" fileSize="42547851" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/immutability-and-functional-concepts-in-php</feedburner:origLink></item>
+    <item>
+      <title>034: Debugging is more than var_dump()</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/oDxtNPsmwhs/debugging-is-more-than-var-dump</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/debugging-is-more-than-var-dump</guid>
+      <description>Believe it or not, there's a lot more to debugging your PHP code than var_dump()'ing all the things. We discuss how to use debugging tools to help us comprehensively debug our codebase.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/oDxtNPsmwhs" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/034-debugging-is-more-than-var_dump.m4a" length="29057144" type="audio/x-m4a" />
+      <pubDate>Mon, 16 Nov 2015 12:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3543</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Believe it or not, there's a lot more to debugging your PHP code than var_dump()'ing all the things. We discuss how to use debugging tools to help us comprehensively debug our codebase.</itunes:subtitle>
+      <itunes:summary><![CDATA[Believe it or not, there's a lot more to debugging your PHP code than var_dump()'ing all the things. We discuss how to use debugging tools to help us comprehensively debug our codebase.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/034-debugging-is-more-than-var_dump.m4a" fileSize="29057144" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/debugging-is-more-than-var-dump</feedburner:origLink></item>
+    <item>
+      <title>033: Design Patternmania</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/Qy5jBnbyNEI/keeping-code-simple-in-a-design-pattern-world</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/keeping-code-simple-in-a-design-pattern-world</guid>
+      <description>With a new design pattern coming out every week it can be easy to get caught up in all the hype. If you frequently try to implement the latest-and-greatest design pattern and feel constantly paralyzed by the thought, &amp;quot;I know I'm doing this wrong,&amp;quot; this episode is for you.
+We discuss how &amp;quot;not seeing the forest for the trees&amp;quot; might be a good thing as we try to narrow our focus in order to write better code without thinking of patterns first.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/Qy5jBnbyNEI" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/033-design-patternmania.m4a" length="34489816" type="audio/x-m4a" />
+      <pubDate>Sun, 25 Oct 2015 15:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4207</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>With a new design pattern coming out every week it can be easy to get caught up in all the hype. If you frequently try to implement the latest-and-greatest design pattern and feel constantly paralyzed by the thought, &amp;quot;I know I'm doing this wrong,&amp;...</itunes:subtitle>
+      <itunes:summary><![CDATA[With a new design pattern coming out every week it can be easy to get caught up in all the hype. If you frequently try to implement the latest-and-greatest design pattern and feel constantly paralyzed by the thought, &quot;I know I'm doing this wrong,&quot; this episode is for you.
+We discuss how &quot;not seeing the forest for the trees&quot; might be a good thing as we try to narrow our focus in order to write better code without thinking of patterns first.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/033-design-patternmania.m4a" fileSize="34489816" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/keeping-code-simple-in-a-design-pattern-world</feedburner:origLink></item>
+    <item>
+      <title>032: Running A Rockin' PHP User Group</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/cuR0MiOueFU/running-a-rockin-php-user-group</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/running-a-rockin-php-user-group</guid>
+      <description>User groups are core to the strength of the PHP community. We discuss what it takes to run a solid user group in your area; finding food &amp;amp; venue sponsors, finding speakers, dealing with money &amp;amp; expenses, and all the details that go into making a rockin' user group.
+And if you don't have a user group in your area, hopefully this episode will inspire you to take Cal Evans' advice and start one!&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/cuR0MiOueFU" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/032-running-a-rockin-php-user-group.m4a" length="28583360" type="audio/x-m4a" />
+      <pubDate>Tue, 20 Oct 2015 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3485</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>User groups are core to the strength of the PHP community. We discuss what it takes to run a solid user group in your area; finding food &amp;amp; venue sponsors, finding speakers, dealing with money &amp;amp; expenses, and all the details that go into making...</itunes:subtitle>
+      <itunes:summary><![CDATA[User groups are core to the strength of the PHP community. We discuss what it takes to run a solid user group in your area; finding food &amp; venue sponsors, finding speakers, dealing with money &amp; expenses, and all the details that go into making a rockin' user group.
+And if you don't have a user group in your area, hopefully this episode will inspire you to take Cal Evans' advice and start one!]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/032-running-a-rockin-php-user-group.m4a" fileSize="28583360" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/running-a-rockin-php-user-group</feedburner:origLink></item>
+    <item>
+      <title>031: Checking in with PHP &amp; HHVM internals</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/tbt8xjgWPLg/checking-in-with-php-and-hhvm-internals</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/checking-in-with-php-and-hhvm-internals</guid>
+      <description>We chatting with some PHP &amp;amp; HHVM internals folks to learn what's been going on in the world of internals.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/tbt8xjgWPLg" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/031-checking-in-with-php-and-hhvm-internals.m4a" length="34258858" type="audio/x-m4a" />
+      <pubDate>Tue, 06 Oct 2015 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4179</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>We chatting with some PHP &amp;amp; HHVM internals folks to learn what's been going on in the world of internals.</itunes:subtitle>
+      <itunes:summary><![CDATA[We chatting with some PHP &amp; HHVM internals folks to learn what's been going on in the world of internals.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/031-checking-in-with-php-and-hhvm-internals.m4a" fileSize="34258858" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/checking-in-with-php-and-hhvm-internals</feedburner:origLink></item>
+    <item>
+      <title>030: SOA and Microservices</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/kVCjZ6k_n2Y/service-oriented-architecture-and-microservices</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/service-oriented-architecture-and-microservices</guid>
+      <description>SOA (Service Oriented Architecture) is an architecture that shifts our focus from one big monolithic web app to smaller connected web apps. We discuss what an SOA app looks like in the real world and how it affects our codebases, deployment &amp;amp; DevOps.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/kVCjZ6k_n2Y" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/030-service-oriented-architecture-and-microservices.m4a" length="31111197" type="audio/x-m4a" />
+      <pubDate>Tue, 01 Sep 2015 16:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3794</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>SOA (Service Oriented Architecture) is an architecture that shifts our focus from one big monolithic web app to smaller connected web apps. We discuss what an SOA app looks like in the real world and how it affects our codebases, deployment &amp;amp; DevOps.</itunes:subtitle>
+      <itunes:summary><![CDATA[SOA (Service Oriented Architecture) is an architecture that shifts our focus from one big monolithic web app to smaller connected web apps. We discuss what an SOA app looks like in the real world and how it affects our codebases, deployment &amp; DevOps.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/030-service-oriented-architecture-and-microservices.m4a" fileSize="31111197" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/service-oriented-architecture-and-microservices</feedburner:origLink></item>
+    <item>
+      <title>029: The Only Girl In The Room</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/fn5qigrKpeI/being-a-woman-in-the-php-community</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/being-a-woman-in-the-php-community</guid>
+      <description>Inspired by a panel discussion at Midwest PHP 2015, we discuss what barriers exist for women in the PHP community and what we can all do to remove gender bias.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/fn5qigrKpeI" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/029-the-only-girl-in-the-room.m4a" length="30028946" type="audio/x-m4a" />
+      <pubDate>Tue, 25 Aug 2015 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3662</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Inspired by a panel discussion at Midwest PHP 2015, we discuss what barriers exist for women in the PHP community and what we can all do to remove gender bias.</itunes:subtitle>
+      <itunes:summary><![CDATA[Inspired by a panel discussion at Midwest PHP 2015, we discuss what barriers exist for women in the PHP community and what we can all do to remove gender bias.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/029-the-only-girl-in-the-room.m4a" fileSize="30028946" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/being-a-woman-in-the-php-community</feedburner:origLink></item>
+    <item>
+      <title>028: The Alcoholic &amp; Unfit PHP Culture</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/nz_ZRIa4-Ss/the-alcoholic-and-unfit-php-culture</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/the-alcoholic-and-unfit-php-culture</guid>
+      <description>The PHP community has its fair-share of devs struggling with alcohol &amp;amp; weight loss and it doesn't help that there is a strong culture around alcohol consumption at nerd events. For some, the bottle is just a fun weekend with nerds. For others, it's a vice &amp;amp; deep struggle affecting them both mentally and physically.
+We'll be discussing the alcoholic culture in the PHP community as well as our struggle with weight loss.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/nz_ZRIa4-Ss" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/028-the-alcoholic-and-unfit-php-culture.m4a" length="40165530" type="audio/x-m4a" />
+      <pubDate>Thu, 20 Aug 2015 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4901</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:subtitle>The PHP community has its fair-share of devs struggling with alcohol &amp;amp; weight loss and it doesn't help that there is a strong culture around alcohol consumption at nerd events. For some, the bottle is just a fun weekend with nerds. For others, it's...</itunes:subtitle>
+      <itunes:summary><![CDATA[The PHP community has its fair-share of devs struggling with alcohol &amp; weight loss and it doesn't help that there is a strong culture around alcohol consumption at nerd events. For some, the bottle is just a fun weekend with nerds. For others, it's a vice &amp; deep struggle affecting them both mentally and physically.
+We'll be discussing the alcoholic culture in the PHP community as well as our struggle with weight loss.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/028-the-alcoholic-and-unfit-php-culture.m4a" fileSize="40165530" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/the-alcoholic-and-unfit-php-culture</feedburner:origLink></item>
+    <item>
+      <title>027: A Laracon US Special</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/5fo4NaEsW8A/a-2015-laracon-us-special</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/a-2015-laracon-us-special</guid>
+      <description>A live recording from Laracon US in Louisville, Kentucky.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/5fo4NaEsW8A" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/027-laracon-us-2015.m4a" length="25532168" type="audio/x-m4a" />
+      <pubDate>Tue, 11 Aug 2015 21:30:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3112</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:subtitle>A live recording from Laracon US in Louisville, Kentucky.</itunes:subtitle>
+      <itunes:summary><![CDATA[A live recording from Laracon US in Louisville, Kentucky.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/027-laracon-us-2015.m4a" fileSize="25532168" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/a-2015-laracon-us-special</feedburner:origLink></item>
+    <item>
+      <title>026: Documentation &amp; Developer Experience</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/2_zWcT8eIi4/documentation-and-developer-experience</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/documentation-and-developer-experience</guid>
+      <description>Documentation can make or break a project but it's often completely overlooked until the very end. And if we don't think about how developers will interact with our project before writing our opening &amp;lt;?php tag, we could end up with a very ugly API.
+We'll discuss some strategies we can take to improve the overall developer experience with &amp;quot;good&amp;quot; documentation and clean API's&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/2_zWcT8eIi4" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/026-documentation-and-developer-experience.m4a" length="31317756" type="audio/x-m4a" />
+      <pubDate>Tue, 04 Aug 2015 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3819</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Documentation can make or break a project but it's often completely overlooked until the very end. And if we don't think about how developers will interact with our project before writing our opening &amp;lt;?php tag, we could end up with a very ugly API....</itunes:subtitle>
+      <itunes:summary><![CDATA[Documentation can make or break a project but it's often completely overlooked until the very end. And if we don't think about how developers will interact with our project before writing our opening &lt;?php tag, we could end up with a very ugly API.
+We'll discuss some strategies we can take to improve the overall developer experience with &quot;good&quot; documentation and clean API's]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/026-documentation-and-developer-experience.m4a" fileSize="31317756" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/documentation-and-developer-experience</feedburner:origLink></item>
+    <item>
+      <title>025: PHP7 Release Management</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/3mc7XGHeKJ0/php7-release-management</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/php7-release-management</guid>
+      <description>We've seen 2 alpha releases of PHP 7 so far and the first beta release became available this past Friday, July 10th. We might not put too much thought into what goes into each release of PHP so for this episode we take a closer look at the release management processes for PHP 7.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/3mc7XGHeKJ0" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/025-php7-release-management.m4a" length="25143543" type="audio/x-m4a" />
+      <pubDate>Tue, 14 Jul 2015 13:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3064</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>We've seen 2 alpha releases of PHP 7 so far and the first beta release became available this past Friday, July 10th. We might not put too much thought into what goes into each release of PHP so for this episode we take a closer look at the release mana...</itunes:subtitle>
+      <itunes:summary><![CDATA[We've seen 2 alpha releases of PHP 7 so far and the first beta release became available this past Friday, July 10th. We might not put too much thought into what goes into each release of PHP so for this episode we take a closer look at the release management processes for PHP 7.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/025-php7-release-management.m4a" fileSize="25143543" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/php7-release-management</feedburner:origLink></item>
+    <item>
+      <title>024: Becoming A PHP Entrepreneur</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/zwEk8xhOQZY/how-to-become-a-php-entrepreneur</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/how-to-become-a-php-entrepreneur</guid>
+      <description>So you have a 9-5 job but want to start your own business... where do you start? We discuss what realistic first-steps you'll need to take in order to transform yourself from a PHP employee to PHP entrepreneur.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/zwEk8xhOQZY" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/024-become-a-php-entrepreneur.m4a" length="36883834" type="audio/x-m4a" />
+      <pubDate>Thu, 09 Jul 2015 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4500</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>So you have a 9-5 job but want to start your own business... where do you start? We discuss what realistic first-steps you'll need to take in order to transform yourself from a PHP employee to PHP entrepreneur.</itunes:subtitle>
+      <itunes:summary><![CDATA[So you have a 9-5 job but want to start your own business... where do you start? We discuss what realistic first-steps you'll need to take in order to transform yourself from a PHP employee to PHP entrepreneur.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/024-become-a-php-entrepreneur.m4a" fileSize="36883834" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/how-to-become-a-php-entrepreneur</feedburner:origLink></item>
+    <item>
+      <title>023: PHP's Major "Bus Factor" Problem</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/Q4PZaNumfQA/how-the-bus-factor-may-negatively-impact-the-php-ecosystem</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/how-the-bus-factor-may-negatively-impact-the-php-ecosystem</guid>
+      <description>Inspired by a lively Open Spaces session at php|tek 2015, we discuss how PHP's ecosystem could be threatened by a not-so-obvious bus factor and what we can all do to keep things thriving.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/Q4PZaNumfQA" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/023-php-bus-factor.m4a" length="32678644" type="audio/x-m4a" />
+      <pubDate>Mon, 22 Jun 2015 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3986</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Inspired by a lively Open Spaces session at php|tek 2015, we discuss how PHP's ecosystem could be threatened by a not-so-obvious bus factor and what we can all do to keep things thriving.</itunes:subtitle>
+      <itunes:summary><![CDATA[Inspired by a lively Open Spaces session at php|tek 2015, we discuss how PHP's ecosystem could be threatened by a not-so-obvious bus factor and what we can all do to keep things thriving.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/023-php-bus-factor.m4a" fileSize="32678644" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/how-the-bus-factor-may-negatively-impact-the-php-ecosystem</feedburner:origLink></item>
+    <item>
+      <title>022: All About PSR-7</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/l1IR4cnECyc/psr-7-streams-immutability-middleware-oh-my</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/psr-7-streams-immutability-middleware-oh-my</guid>
+      <description>PSR-7 is the latest accepted member to the PHP FIG's standards library. We discuss what PSR-7 is, how it utilizes streams, immutability &amp;amp; middleware, and how it will affects you as a developer.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/l1IR4cnECyc" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/022-psr-7-streams-immutability-middleware.m4a" length="37273022" type="audio/x-m4a" />
+      <pubDate>Thu, 11 Jun 2015 13:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4547</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>PSR-7 is the latest accepted member to the PHP FIG's standards library. We discuss what PSR-7 is, how it utilizes streams, immutability &amp;amp; middleware, and how it will affects you as a developer.</itunes:subtitle>
+      <itunes:summary><![CDATA[PSR-7 is the latest accepted member to the PHP FIG's standards library. We discuss what PSR-7 is, how it utilizes streams, immutability &amp; middleware, and how it will affects you as a developer.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/022-psr-7-streams-immutability-middleware.m4a" fileSize="37273022" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/psr-7-streams-immutability-middleware-oh-my</feedburner:origLink></item>
+    <item>
+      <title>021: From Idea To Production: Part 1</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/JFwsMLXcyHU/part-1-turning-an-idea-into-code-for-production</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/part-1-turning-an-idea-into-code-for-production</guid>
+      <description>We discuss an idea for a web app and identify ways to turn it into a real-life product on the web.
+We start with describing the domain and the problems the app should solve. Then we identify the personas that will interact with the app. We discuss the features features the app should have to fix the problems and we  sort all the features by priority. Finally we talk about timeline, deliverables and next steps.
+The app we discuss will be launched to production by the next airing of this multi-part series of taking an idea to code.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/JFwsMLXcyHU" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/021-from-idea-to-production.m4a" length="36689994" type="audio/x-m4a" />
+      <pubDate>Thu, 28 May 2015 11:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4476</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>We discuss an idea for a web app and identify ways to turn it into a real-life product on the web.
+We start with describing the domain and the problems the app should solve. Then we identify the personas that will interact with the app. We discuss the...</itunes:subtitle>
+      <itunes:summary><![CDATA[We discuss an idea for a web app and identify ways to turn it into a real-life product on the web.
+We start with describing the domain and the problems the app should solve. Then we identify the personas that will interact with the app. We discuss the features features the app should have to fix the problems and we  sort all the features by priority. Finally we talk about timeline, deliverables and next steps.
+The app we discuss will be launched to production by the next airing of this multi-part series of taking an idea to code.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/021-from-idea-to-production.m4a" fileSize="36689994" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/part-1-turning-an-idea-into-code-for-production</feedburner:origLink></item>
+    <item>
+      <title>020: A Loosely Coupled Mashup @ php[tek]</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/EUd3LgOLmuI/a-loosely-coupled-mashup-phptek-2015</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/a-loosely-coupled-mashup-phptek-2015</guid>
+      <description>A special live mashup recording with Loosely Coupled from php[tek] in Chicago, IL. We talk #phptek, Open Source, and eat some PSR-7 cake.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/EUd3LgOLmuI" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/020-phptek-2015.m4a" length="40492995" type="audio/x-m4a" />
+      <pubDate>Thu, 21 May 2015 21:30:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4941</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:subtitle>A special live mashup recording with Loosely Coupled from php[tek] in Chicago, IL. We talk #phptek, Open Source, and eat some PSR-7 cake.</itunes:subtitle>
+      <itunes:summary><![CDATA[A special live mashup recording with Loosely Coupled from php[tek] in Chicago, IL. We talk #phptek, Open Source, and eat some PSR-7 cake.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/020-phptek-2015.m4a" fileSize="40492995" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/a-loosely-coupled-mashup-phptek-2015</feedburner:origLink></item>
+    <item>
+      <title>019: The Business of PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/5DGq795cNGA/the-business-side-of-php-clients-customer-service-pricing-oh-my</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/the-business-side-of-php-clients-customer-service-pricing-oh-my</guid>
+      <description>We discuss freelancing as a PHP developer, managing client expectations, niches, good customer service, project scope &amp;amp; scope creep, hourly rates vs value based pricing, and whether or not to run a SaaS.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/5DGq795cNGA" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/019-the-business-of-php.m4a" length="41660066" type="audio/x-m4a" />
+      <pubDate>Thu, 30 Apr 2015 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>5084</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>We discuss freelancing as a PHP developer, managing client expectations, niches, good customer service, project scope &amp;amp; scope creep, hourly rates vs value based pricing, and whether or not to run a SaaS.</itunes:subtitle>
+      <itunes:summary><![CDATA[We discuss freelancing as a PHP developer, managing client expectations, niches, good customer service, project scope &amp; scope creep, hourly rates vs value based pricing, and whether or not to run a SaaS.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/019-the-business-of-php.m4a" fileSize="41660066" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/the-business-side-of-php-clients-customer-service-pricing-oh-my</feedburner:origLink></item>
+    <item>
+      <title>018: F8 Afterglow &amp; The PHP SDK</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/acLOQoDdx5U/f8-2015-facebook-developer-conference-and-the-new-php-sdk</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/f8-2015-facebook-developer-conference-and-the-new-php-sdk</guid>
+      <description>A short afterglow discussion about the 2015 F8 Facebook Developer Conference in San Francisco, CA &amp;amp; a look at the new Facebook PHP SDK and where it's headed.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/acLOQoDdx5U" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/018-f8-afterglow-and-php-sdk.m4a" length="17109965" type="audio/x-m4a" />
+      <pubDate>Wed, 22 Apr 2015 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>2082</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>A short afterglow discussion about the 2015 F8 Facebook Developer Conference in San Francisco, CA &amp;amp; a look at the new Facebook PHP SDK and where it's headed.</itunes:subtitle>
+      <itunes:summary><![CDATA[A short afterglow discussion about the 2015 F8 Facebook Developer Conference in San Francisco, CA &amp; a look at the new Facebook PHP SDK and where it's headed.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/018-f8-afterglow-and-php-sdk.m4a" fileSize="17109965" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/f8-2015-facebook-developer-conference-and-the-new-php-sdk</feedburner:origLink></item>
+    <item>
+      <title>017: Modernizing Legacy Codebases in PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/Oma5GAdGhro/how-to-convert-a-legacy-codebase-to-modern-php</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/how-to-convert-a-legacy-codebase-to-modern-php</guid>
+      <description>We discuss practical ways of dealing with legacy codebases and address the question of, &amp;quot;to rewrite or to refactor&amp;quot;? We also talk about how we should manage client expectations when working with a legacy codebase. And finally we discuss some general strategies for refactoring a codebase to good, clean, modern PHP.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/Oma5GAdGhro" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/017-legacy-codebases.m4a" length="34586786" type="audio/x-m4a" />
+      <pubDate>Wed, 15 Apr 2015 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4219</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>We discuss practical ways of dealing with legacy codebases and address the question of, &amp;quot;to rewrite or to refactor&amp;quot;? We also talk about how we should manage client expectations when working with a legacy codebase. And finally we discuss some...</itunes:subtitle>
+      <itunes:summary><![CDATA[We discuss practical ways of dealing with legacy codebases and address the question of, &quot;to rewrite or to refactor&quot;? We also talk about how we should manage client expectations when working with a legacy codebase. And finally we discuss some general strategies for refactoring a codebase to good, clean, modern PHP.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/017-legacy-codebases.m4a" fileSize="34586786" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/how-to-convert-a-legacy-codebase-to-modern-php</feedburner:origLink></item>
+    <item>
+      <title>016: Contributing To PHP 7</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/_xzxg8-5ZO0/contributing-to-php-7-with-the-gophp7-ext-project</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/contributing-to-php-7-with-the-gophp7-ext-project</guid>
+      <description>You don't need to be a C programmer in order to contribute to PHP internals. We'll be discussing how you can get involved with PHP internals, the GoPHP7-ext project and how you can help get PHP 7 ready for release.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/_xzxg8-5ZO0" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/016-contributing-to-php-7.m4a" length="34398195" type="audio/x-m4a" />
+      <pubDate>Mon, 30 Mar 2015 13:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4195</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>You don't need to be a C programmer in order to contribute to PHP internals. We'll be discussing how you can get involved with PHP internals, the GoPHP7-ext project and how you can help get PHP 7 ready for release.</itunes:subtitle>
+      <itunes:summary><![CDATA[You don't need to be a C programmer in order to contribute to PHP internals. We'll be discussing how you can get involved with PHP internals, the GoPHP7-ext project and how you can help get PHP 7 ready for release.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/016-contributing-to-php-7.m4a" fileSize="34398195" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/contributing-to-php-7-with-the-gophp7-ext-project</feedburner:origLink></item>
+    <item>
+      <title>015: SemVer, Licensing &amp; OS Support Expectations</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/ssQxT2SNuuQ/semver-licensing-os-support-expectations-open-source-series-part-2</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/semver-licensing-os-support-expectations-open-source-series-part-2</guid>
+      <description>Part 2 of an on-going series on open source. We discuss a number of open source topics including what the expectations are for support of an open source project. We also discuss how to use SemVer to successfully maintain an open source package and what we can do when SemVer is not an option. And finally we take a look at licensing and discuss why we need to be concerned with it.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/ssQxT2SNuuQ" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/015-os-support-semver-licensing.m4a" length="32368638" type="audio/x-m4a" />
+      <pubDate>Wed, 18 Mar 2015 12:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3947</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Part 2 of an on-going series on open source. We discuss a number of open source topics including what the expectations are for support of an open source project. We also discuss how to use SemVer to successfully maintain an open source package and what...</itunes:subtitle>
+      <itunes:summary><![CDATA[Part 2 of an on-going series on open source. We discuss a number of open source topics including what the expectations are for support of an open source project. We also discuss how to use SemVer to successfully maintain an open source package and what we can do when SemVer is not an option. And finally we take a look at licensing and discuss why we need to be concerned with it.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/015-os-support-semver-licensing.m4a" fileSize="32368638" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/semver-licensing-os-support-expectations-open-source-series-part-2</feedburner:origLink></item>
+    <item>
+      <title>014: A Midwest PHP Special</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/A4kgKb6_z3o/a-2015-midwest-php-special</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/a-2015-midwest-php-special</guid>
+      <description>A live recording from Midwest PHP in Minneapolis, MN. We talk about developer burn-out, the GoPHP7-ext project, why eval() is bad, the cons of the reflection class and announce the voting phase for an RFC for PHP7.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/A4kgKb6_z3o" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/014-midwest-php.m4a" length="43415815" type="audio/x-m4a" />
+      <pubDate>Sat, 14 Mar 2015 21:30:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>5298</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:subtitle>A live recording from Midwest PHP in Minneapolis, MN. We talk about developer burn-out, the GoPHP7-ext project, why eval() is bad, the cons of the reflection class and announce the voting phase for an RFC for PHP7.</itunes:subtitle>
+      <itunes:summary><![CDATA[A live recording from Midwest PHP in Minneapolis, MN. We talk about developer burn-out, the GoPHP7-ext project, why eval() is bad, the cons of the reflection class and announce the voting phase for an RFC for PHP7.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/014-midwest-php.m4a" fileSize="43415815" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/a-2015-midwest-php-special</feedburner:origLink></item>
+    <item>
+      <title>013: TDD &amp; BDD In PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/VV0uxP_ouUk/test-driven-development-and-behavior-driven-development-in-php</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/test-driven-development-and-behavior-driven-development-in-php</guid>
+      <description>We focus our discussion on two ideologies within the testing realm: test-driven development (TDD) and behavior-driven development (BDD). We talk about how these two methodologies bring a unique angle to testing software and how we can use them in tandem in our own PHP projects.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/VV0uxP_ouUk" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/013-tdd-and-bdd-in-php.m4a" length="34239851" type="audio/x-m4a" />
+      <pubDate>Mon, 23 Feb 2015 12:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4176</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>We focus our discussion on two ideologies within the testing realm: test-driven development (TDD) and behavior-driven development (BDD). We talk about how these two methodologies bring a unique angle to testing software and how we can use them in tande...</itunes:subtitle>
+      <itunes:summary><![CDATA[We focus our discussion on two ideologies within the testing realm: test-driven development (TDD) and behavior-driven development (BDD). We talk about how these two methodologies bring a unique angle to testing software and how we can use them in tandem in our own PHP projects.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/013-tdd-and-bdd-in-php.m4a" fileSize="34239851" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/test-driven-development-and-behavior-driven-development-in-php</feedburner:origLink></item>
+    <item>
+      <title>012: A PHP Town Hall Mashup at Sunshine PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/eDNY2gCD9zY/a-2015-sunshine-php-special</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/a-2015-sunshine-php-special</guid>
+      <description>A live mashup of PHP Roundtable and PHP Town Hall at Sunshine PHP in Miami, Florida.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/eDNY2gCD9zY" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/012-sunshine-php.m4a" length="37748781" type="audio/x-m4a" />
+      <pubDate>Sat, 07 Feb 2015 21:30:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4605</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:subtitle>A live mashup of PHP Roundtable and PHP Town Hall at Sunshine PHP in Miami, Florida.</itunes:subtitle>
+      <itunes:summary><![CDATA[A live mashup of PHP Roundtable and PHP Town Hall at Sunshine PHP in Miami, Florida.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/012-sunshine-php.m4a" fileSize="37748781" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/a-2015-sunshine-php-special</feedburner:origLink></item>
+    <item>
+      <title>011: Accessibility On The Web</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/-1qXcdKMAkc/accessibility-on-the-web</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/accessibility-on-the-web</guid>
+      <description>Accessibility is an important and often overlooked aspect of web development. In this episode we'll discuss why web accessibility is so important and how we can make the web more accessible.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/-1qXcdKMAkc" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/011-accessibility.m4a" length="34993387" type="audio/x-m4a" />
+      <pubDate>Mon, 26 Jan 2015 19:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4268</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Accessibility is an important and often overlooked aspect of web development. In this episode we'll discuss why web accessibility is so important and how we can make the web more accessible.</itunes:subtitle>
+      <itunes:summary><![CDATA[Accessibility is an important and often overlooked aspect of web development. In this episode we'll discuss why web accessibility is so important and how we can make the web more accessible.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/011-accessibility.m4a" fileSize="34993387" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/accessibility-on-the-web</feedburner:origLink></item>
+    <item>
+      <title>010: ReactJS and the Flux architecture</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/jlbEwHmORKU/implementing-reactjs-and-the-flux-application-architecture</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/implementing-reactjs-and-the-flux-application-architecture</guid>
+      <description>ReactJS is not just another JavaScript framework. It's not a replacement for jQuery, Ember or Angular. But it's a library that's got one wild and crazy way to render the DOM using something called JSX. You'll hate it. Then you'll love it. Then you'll be an annoying fan-boy of it.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/jlbEwHmORKU" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/010-reactjs-and-flux.m4a" length="31480831" type="audio/x-m4a" />
+      <pubDate>Mon, 19 Jan 2015 20:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>3839</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>ReactJS is not just another JavaScript framework. It's not a replacement for jQuery, Ember or Angular. But it's a library that's got one wild and crazy way to render the DOM using something called JSX. You'll hate it. Then you'll love it. Then you'll b...</itunes:subtitle>
+      <itunes:summary><![CDATA[ReactJS is not just another JavaScript framework. It's not a replacement for jQuery, Ember or Angular. But it's a library that's got one wild and crazy way to render the DOM using something called JSX. You'll hate it. Then you'll love it. Then you'll be an annoying fan-boy of it.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/010-reactjs-and-flux.m4a" fileSize="31480831" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/implementing-reactjs-and-the-flux-application-architecture</feedburner:origLink></item>
+    <item>
+      <title>009: Coding Securely In PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/ZOmwD2-0lSE/coding-securely-in-php</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/coding-securely-in-php</guid>
+      <description>With big security breaches becoming the norm these days, security is something we simply cannot ignore. In this discussion we'll ask the experts how we can become more responsible developers by learning about specific security threats we should be most concerned with.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/ZOmwD2-0lSE" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/009-security-in-php.m4a" length="35212103" type="audio/x-m4a" />
+      <pubDate>Mon, 12 Jan 2015 19:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4295</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>With big security breaches becoming the norm these days, security is something we simply cannot ignore. In this discussion we'll ask the experts how we can become more responsible developers by learning about specific security threats we should be most...</itunes:subtitle>
+      <itunes:summary><![CDATA[With big security breaches becoming the norm these days, security is something we simply cannot ignore. In this discussion we'll ask the experts how we can become more responsible developers by learning about specific security threats we should be most concerned with.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/009-security-in-php.m4a" fileSize="35212103" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/coding-securely-in-php</feedburner:origLink></item>
+    <item>
+      <title>008: Domain-Driven Design In PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/-1RUzB6-znM/domain-driven-design-in-php</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/domain-driven-design-in-php</guid>
+      <description>Discussing domain-driven design concepts in PHP.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/-1RUzB6-znM" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/008-domain-driven-design.m4a" length="38578521" type="audio/x-m4a" />
+      <pubDate>Mon, 05 Jan 2015 11:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4706</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Discussing domain-driven design concepts in PHP.</itunes:subtitle>
+      <itunes:summary><![CDATA[Discussing domain-driven design concepts in PHP.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/008-domain-driven-design.m4a" fileSize="38578521" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/domain-driven-design-in-php</feedburner:origLink></item>
+    <item>
+      <title>007: Git &amp; Git-Flow - Open Source Part 1</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/J3bLeNXaFpM/open-source-series-part-1-git-git-flow</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/open-source-series-part-1-git-git-flow</guid>
+      <description>Part one of a multi-part series on open source. Today we discuss open source &amp;amp; code management with a version control system &amp;amp; explore the concept of git-flow.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/J3bLeNXaFpM" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/007-git-flow-open-source.m4a" length="44072100" type="audio/x-m4a" />
+      <pubDate>Tue, 16 Dec 2014 13:00:00 -0600</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>5378</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>Part one of a multi-part series on open source. Today we discuss open source &amp;amp; code management with a version control system &amp;amp; explore the concept of git-flow.</itunes:subtitle>
+      <itunes:summary><![CDATA[Part one of a multi-part series on open source. Today we discuss open source &amp; code management with a version control system &amp; explore the concept of git-flow.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/007-git-flow-open-source.m4a" fileSize="44072100" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/open-source-series-part-1-git-git-flow</feedburner:origLink></item>
+    <item>
+      <title>006: Faceoff: Taylor Otwell vs Phil Sturgeon</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/pyF2cjJsdKE/faceoff-taylor-otwell-vs-phil-sturgeon-debating-all-the-things</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/faceoff-taylor-otwell-vs-phil-sturgeon-debating-all-the-things</guid>
+      <description>Taylor Otwell &amp;amp; Phil Sturgeon go head-to-head debating all the things.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/pyF2cjJsdKE" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/006-phil-vs-taylor.m4a" length="36767432" type="audio/x-m4a" />
+      <pubDate>Thu, 30 Oct 2014 19:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4485</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:subtitle>Taylor Otwell &amp;amp; Phil Sturgeon go head-to-head debating all the things.</itunes:subtitle>
+      <itunes:summary><![CDATA[Taylor Otwell &amp; Phil Sturgeon go head-to-head debating all the things.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/006-phil-vs-taylor.m4a" fileSize="36767432" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/faceoff-taylor-otwell-vs-phil-sturgeon-debating-all-the-things</feedburner:origLink></item>
+    <item>
+      <title>005: PHP Internals - Past, Present &amp; Future</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/RvRa_f7-lew/php-internals-past-present-future</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/php-internals-past-present-future</guid>
+      <description>How the sausage is made. Taking a look at PHP's history and where it's going in the future.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/RvRa_f7-lew" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/005-php-internals.m4a" length="36852465" type="audio/x-m4a" />
+      <pubDate>Sun, 19 Oct 2014 21:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4495</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>How the sausage is made. Taking a look at PHP's history and where it's going in the future.</itunes:subtitle>
+      <itunes:summary><![CDATA[How the sausage is made. Taking a look at PHP's history and where it's going in the future.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/005-php-internals.m4a" fileSize="36852465" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/php-internals-past-present-future</feedburner:origLink></item>
+    <item>
+      <title>004: All About API's</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/K9HuRqrPWwM/all-about-web-apis-raml-oauth-hateoas</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/all-about-web-apis-raml-oauth-hateoas</guid>
+      <description>All about web API's: designing your API with RAML, authentication with OAuth and discussing the hypermedia-constraint (HATEOAS).&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/K9HuRqrPWwM" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/004-apis.m4a" length="43695261" type="audio/x-m4a" />
+      <pubDate>Mon, 22 Sep 2014 19:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>5332</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>All about web API's: designing your API with RAML, authentication with OAuth and discussing the hypermedia-constraint (HATEOAS).</itunes:subtitle>
+      <itunes:summary><![CDATA[All about web API's: designing your API with RAML, authentication with OAuth and discussing the hypermedia-constraint (HATEOAS).]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/004-apis.m4a" fileSize="43695261" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/all-about-web-apis-raml-oauth-hateoas</feedburner:origLink></item>
+    <item>
+      <title>003: A #WurstCon Special</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/ebD2Bqf8rPc/a-2014-wurstcon-special</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/a-2014-wurstcon-special</guid>
+      <description>Drunken chatter from #WurstCon Chicago 2014.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/ebD2Bqf8rPc" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/003-wurstcon.m4a" length="54171518" type="audio/x-m4a" />
+      <pubDate>Sat, 20 Sep 2014 19:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>6613</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:subtitle>Drunken chatter from #WurstCon Chicago 2014.</itunes:subtitle>
+      <itunes:summary><![CDATA[Drunken chatter from #WurstCon Chicago 2014.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/003-wurstcon.m4a" fileSize="54171518" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/a-2014-wurstcon-special</feedburner:origLink></item>
+    <item>
+      <title>002: Functional Programming In PHP</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/AK1T7YCneKI/functional-programming-non-blocking-asynchronous-event-driven-in-php</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/functional-programming-non-blocking-asynchronous-event-driven-in-php</guid>
+      <description>We explore what functional programming looks like in PHP. We also touch on non-blocking, asynchronous, &amp;amp; event-driven concepts.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/AK1T7YCneKI" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/002-functional-programming.m4a" length="41713761" type="audio/x-m4a" />
+      <pubDate>Mon, 08 Sep 2014 19:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>5090</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>We explore what functional programming looks like in PHP. We also touch on non-blocking, asynchronous, &amp;amp; event-driven concepts.</itunes:subtitle>
+      <itunes:summary><![CDATA[We explore what functional programming looks like in PHP. We also touch on non-blocking, asynchronous, &amp; event-driven concepts.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/002-functional-programming.m4a" fileSize="41713761" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/functional-programming-non-blocking-asynchronous-event-driven-in-php</feedburner:origLink></item>
+    <item>
+      <title>001: The PHP Community, PHP CLI, &amp; ElePHPants</title>
+      <link>http://feedproxy.google.com/~r/PhpRoundtable/~3/lV7wwiCOYII/the-php-community-php-from-the-command-line-and-elephpants</link>
+      <guid isPermaLink="false">https://www.phproundtable.com/episode/the-php-community-php-from-the-command-line-and-elephpants</guid>
+      <description>A discussion that examines the zeitgeist of PHP. From elePHPants, to user groups, to PHP internals, to testing, to the awesome people in the community.&lt;img src="http://feeds.feedburner.com/~r/PhpRoundtable/~4/lV7wwiCOYII" height="1" width="1" alt=""/&gt;</description>
+      <author>sammyk@phproundtable.com</author>
+      <enclosure url="https://php-roundtable.s3.amazonaws.com/episodes/001-php-community.m4a" length="38469209" type="audio/x-m4a" />
+      <pubDate>Mon, 25 Aug 2014 19:00:00 -0500</pubDate>
+      <itunes:author>PHP Roundtable</itunes:author>
+      <itunes:image href="https://php-roundtable.s3.amazonaws.com/images/iTunes-Cover-Art.jpg" />
+      <itunes:duration>4693</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle>A discussion that examines the zeitgeist of PHP. From elePHPants, to user groups, to PHP internals, to testing, to the awesome people in the community.</itunes:subtitle>
+      <itunes:summary><![CDATA[A discussion that examines the zeitgeist of PHP. From elePHPants, to user groups, to PHP internals, to testing, to the awesome people in the community.]]></itunes:summary>
+    <media:content url="https://php-roundtable.s3.amazonaws.com/episodes/001-php-community.m4a" fileSize="38469209" type="audio/x-m4a" /><itunes:keywords>PHP,web,development,JavaScript</itunes:keywords><feedburner:origLink>https://www.phproundtable.com/episode/the-php-community-php-from-the-command-line-and-elephpants</feedburner:origLink></item>
+  <media:credit role="author">PHP Roundtable</media:credit><media:rating>nonadult</media:rating><media:description type="plain">A casual gathering of developers discussing topics that PHP nerds care about.</media:description></channel>
+</rss>
