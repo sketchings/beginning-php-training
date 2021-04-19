@@ -12,7 +12,7 @@ Since we are live-streaming [Midwest PHP this year](https://midwestphp.org/sched
 
 The links below take you to the slide deck and additional materials within this repository.
 
-## Friday April 3
+## Thursday April 22
 
  - 10:15-11:00 [Getting Setup with PHP](sessions/01-getting-setup)
  - 11:15-12:00 [PHP Language Fundamentals](sessions/02-language-fundamentals)
@@ -20,7 +20,7 @@ The links below take you to the slide deck and additional materials within this 
  - 2:40-3:20 [Extending Object Oriented Programming with PHP](sessions/04-object-oriented-2)
  - 3:40-4:20 [Using Composer](sessions/05-composer)
  
-## Saturday April 4
+## Friday April 23
 
  - 10:15-11:00 [Testing in PHP](sessions/06-testing)
  - 11:15-12:00 [Data, Files, and Forms](sessions/07-data-files-sessions-forms)
