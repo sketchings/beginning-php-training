@@ -8,7 +8,7 @@ Each session folder (linked below) contains a copy of that session's slide deck 
 
 Since we are live-streaming [Midwest PHP this year](https://midwestphp.org/schedule), it might be wise to use an offline copy of the slide deck in case there are bandwidth/transmission problems during the session. We'll do our best, but sometimes stuff happens!
 
-**Slack Channel**: We have a slack channel dedicated to the Beginner Track during the live-streamed sessions. Midwest PHP will provide you access information. One speaker will be monitoring the channel while the other speaker is presenting. Please ask questions!
+**Discord Channel**: We have a Discord channel dedicated to the Beginner Track during the live-streamed sessions. Midwest PHP will provide you access information. One speaker will be monitoring the channel while the other speaker is presenting. Please ask questions!
 
 The links below take you to the slide deck and additional materials within this repository.
 
