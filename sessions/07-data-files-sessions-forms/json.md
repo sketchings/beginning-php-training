@@ -13,7 +13,7 @@ It is not required that CSV files have a header line, although they SHOULD. The 
 > 
 > ***NOTE ON RETURN VALUES:** Returns the value as the appropriate PHP type (object or array). Values true, false and null are returned as TRUE, FALSE and NULL respectively. NULL is returned if the json cannot be decoded or if the encoded data is deeper than the recursion limit.*
 
-[json_decode](https://www.php.net/manual/en/function.json-encode.php) – Returns the JSON representation of a value
+[json_encode](https://www.php.net/manual/en/function.json-encode.php) – Returns the JSON representation of a value
 
 > The [options]() are bitmasks consisting of JSON_PRETTY_PRINT and JSON_UNESCAPED_SLASHES. Other options that are available include: JSON_HEX_QUOT, JSON_HEX_TAG, JSON_HEX_AMP, JSON_HEX_APOS, JSON_NUMERIC_CHECK, JSON_FORCE_OBJECT, JSON_PRESERVE_ZERO_FRACTION, JSON_UNESCAPED_UNICODE, JSON_PARTIAL_OUTPUT_ON_ERROR. The behaviour of these constants is described on the [JSON constants](https://www.php.net/manual/en/json.constants.php) page.
 
